@@ -1,0 +1,49 @@
+/*
+ * Global Styles
+ */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+ }
+ 
+ h3 {
+    color: green;
+    font-family: verdana;
+  }
+
+  p {
+    color: blue;
+    font-family: verdana;
+  }
+  
+.container {
+  max-width: 900px;
+  padding: 0 15px;
+}
+
+.hide {
+  display: none;
+}
+
+.leaflet-popup-content-wrapper { width: 400px;}
+
+.leaflet-popup-content img {
+  max-width:100%;
+  }
+
+
+/*
+ * Styles
+ */
+#logopart	{
+	height: 150px;
+	}
+
+
+#map {
+  height: 600px;
+  }
+  
+#input-area {
+  height: 200px;
+  }
