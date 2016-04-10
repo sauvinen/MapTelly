@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>MapTelly : JHU</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.js'></script>
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.4.0/mapbox.css' rel='stylesheet' />
+<link rel="stylesheet" href="assets/styles/main.css">
+<style>
+  body { margin:0; padding:0; }
+  
+
+  
+</style>
+</head>
+<body>
+<div id='logopart'</div>
+
+<IMG SRC="./assets/pictures/MapTellyIcon_small150.png" ALT="MapTelly" ALIGN=LEFT>
+   
+   
+<div id='map'></div>
+
+<div  id='input-area'</div>
+
+<h3><span>Add a new video</span></h3>
+<p class="field-row">
+	<label for="title">Location (updated automatically when you click the map)</label>
+	<input type="text" name="address" id="field-address" value="Click the map" class="field" tabindex="1" />
+
+<p id="field-row-title" class="field-row">
+	<label for="title">Video title</label>
+	<input type="text" name="title" id="field-title" value="" class="field" tabindex="2" />
+</p>
+<p id="field-row-id" class="field-row">
+	<label for="title">YouTube video id</label>
+	<input type="text" name="youtubelink" id="field-link" value="e.g. 6ym2F3rbKmM" class="field" tabindex="2" />
+</p>
+<p class="submit-row">
+	<input type="submit" id="issue-form-submit" class="button" value="Submit" tabindex="9" />
+</p>
+
+
+
+
+
+<script>
+L.mapbox.accessToken = 'pk.eyJ1Ijoic2FudGVyaSIsImEiOiJjaWpjZGkxcnMwMDFodTBra20zZmVhaTB3In0.sHb8l17yzh6CcYEE61OkBQ';
+
+// First layer from Mapbox server, MapTelly 
+var map = L.mapbox.map('map', 'santeri.pkc3ia3b')
+    .setView([60.471, 25.091], 12);
+
+	
+// Second layer from a project file
+var myLayer = L.mapbox.featureLayer()
+  .loadURL('./jhuu.json')
+  .addTo(map);
+
+// Add the iframe in a marker tooltip using the custom feature properties
+myLayer.on('layeradd', function(e) {
+    var marker = e.layer,
+        feature = marker.feature;
+
+    // Create custom popup content from the GeoJSON property 'video'
+    var popupContent =  feature.properties.video;
+	console.log("Video popupcontent"+popupContent);
+
+    // bind the popup to the marker http:popupVideoLink//leafletjs.com/reference.html#popup
+    marker.bindPopup(popupContent,{
+        closeButton: false,
+        minWidth: 320
+    });
+});
+
+// Read coorninates and add into the location field
+ var getLocationOnClick = function(e) {
+    // add Location from a click to the location field
+	var location = [e.latlng.lng, e.latlng.lat];
+	console.log("Location from a click: " +location);
+	document.getElementById('field-address').value = location;
+  }
+ 
+   
+// Listen the submit button   
+var x = document.getElementById("issue-form-submit");
+	if (x.addEventListener) {                    // For all major browsers, except IE 8 and earlier
+		x.addEventListener("click", addVideo);
+	} else if (x.attachEvent) {                  // For IE 8 and earlier versions
+		x.attachEvent("onclick", addVideo);
+	}
+  
+function addVideo(){
+	console.log("----addVideo in-------");
+	console.log("location value: " +document.getElementById('field-address').value);
+	var locationdata = document.getElementById('field-address').value;
+	var locationvalues = locationdata.split(',').map(Number);
+	var latlng = L.latLng(locationvalues[1],locationvalues[0]);
+	
+	var newMarker = L.marker(latlng, {icon: MapTellyIcon}).addTo(map);
+	newMarker.title = document.getElementById('field-title').value;
+		
+	var popupContent = "<iframe src=\"https://www.youtube.com/embed/"+document.getElementById('field-link').value+"\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>"+document.getElementById('field-title').value+"</h3></p>" ;
+	newMarker.bindPopup(popupContent,{
+    closeButton: false,
+    minWidth: 320
+	});
+}
+  
+   // MapTelly marker
+  var MapTellyIcon = L.icon({
+    // Specify a class name we can refer to in CSS.
+    className: 'maptelly-icon',
+    // Set marker width and height
+    iconSize: [40, 60],
+    // Set icon url
+    iconUrl: 'assets/pictures/Vihreamerkki_trp2.png'
+  });
+  
+  map.on('click', getLocationOnClick);
+  
+</script>
+</body>
+</html>

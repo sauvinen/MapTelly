@@ -1,0 +1,502 @@
+ {
+  "type": "FeatureCollection",
+  "features": [
+      {"type": "Feature",
+      "properties": {
+        "id": "marker-iltivhr17",
+        "title": "Puistoblues 2015 special 2",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=aC29Hr-A1k0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/aC29Hr-A1k0/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/wDqthILIb3Y\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Puistoblues 2015 special 2</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.09276, 60.474752 ],
+        "type": "Point"
+		}
+	  },
+	{
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltivhr17",
+        "title": "Puistoblues 2015 special 2",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=aC29Hr-A1k0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/aC29Hr-A1k0/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/aC29Hr-A1k0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Puistoblues 2015 special 2</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.086711, 60.46953 ],
+        "type": "Point"
+		}
+	},
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltiprzi5",
+        "title": "Juhannussuunnitelmista kadulla ja muita kesäuutisia Järvenpäästä 2015. ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=YvlfnGxaN-o\" target=\"_new\"><img src=\"http://img.youtube.com/vi/YvlfnGxaN-o/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/YvlfnGxaN-o\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Juhannussuunnitelmista kadulla ja muita kesäuutisia Järvenpäästä 2015. </h3></p>"
+
+      },
+      "geometry": {
+        "coordinates": [ 25.088106, 60.471265 ],
+        "type": "Point"
+      }
+    },
+	   {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjy990d",
+        "title": "SK8-skeittiparkin sekä Järvenpään reumayhdistyksen reumaviikkojen avajaisia. ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=muYGNJTBjes\" target=\"_new\"><img src=\"http://img.youtube.com/vi/muYGNJTBjes/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/muYGNJTBjes\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>SK8-skeittiparkin sekä Järvenpään reumayhdistyksen reumaviikkojen avajaisia. </h3></p>"
+
+      },
+      "geometry": {
+        "coordinates": [ 25.08507, 60.465987 ],
+        "type": "Point"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltk9oqrh",
+        "title": "Kauneimmat joululaulut-konsertti Järvenpään kirkossa",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=dEeD73rtH1s\" target=\"_new\"><img src=\"http://img.youtube.com/vi/dEeD73rtH1s/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/dEeD73rtH1s\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kauneimmat joululaulut-konsertti Järvenpään kirkossa</h3></p>"
+
+      },
+      "geometry": {
+        "coordinates": [ 25.089506, 60.467549 ],
+        "type": "Point"
+      }
+    },	
+  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltji6fa3",
+        "title": "Kesäteatteri ja kahvilakierros Uusi Vanhis kahvilassa  ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=gEuUBbQEwrA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/gEuUBbQEwrA/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/gEuUBbQEwrA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kesäteatteri ja kahvilakierros Uusi Vanhis kahvilassa  </h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.062805, 60.455253 ],
+        "type": "Point"
+      }
+    },
+	
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjlpws5",
+        "title": "Jannen (Jean Sibelius) synttärit 2015 ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=ijcj_B1HrQc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/ijcj_B1HrQc/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/ijcj_B1HrQc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Jannen (Jean Sibelius) synttärit 2015 </h3></p>"
+
+      },
+      "geometry": {
+        "coordinates": [ 25.083321, 60.466072 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltihvul3",
+        "title": "38. Tanhuniittypäivä ja muita kevätuutisia Järvenpäästä 2015.",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=TOWb_ul9PLc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/TOWb_ul9PLc/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video":"<iframe src=\"https://www.youtube.com/embed/TOWb_ul9PLc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>38. Tanhuniittypäivä ja muita kevätuutisia Järvenpäästä 2015.</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.107396, 60.463427 ],
+        "type": "Point"
+      }
+    },
+	
+	   {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjjpm64",
+        "title": "Streetfestien juontajan ja Kukkafillari-huutokaupan vetäjän haastattelut sekä posetiivifestarin yleisöä. ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=WK95V_IaFGI\" target=\"_new\"><img src=\"http://img.youtube.com/vi/WK95V_IaFGI/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/WK95V_IaFGI\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Streetfestien juontajan ja Kukkafillari-huutokaupan vetäjän haastattelut sekä posetiivifestarin yleisöä.</h3></p>"
+
+      },
+      "geometry": {
+        "coordinates": [ 25.088932, 60.47201 ],
+        "type": "Point"
+      }
+    },
+	
+	 {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjs5l79",
+        "title": "Sieniretkellä Lemmenlaaksossa ja Naisten Pankin hyväntekeväisyysjuoksuissa syksyllä 2015 ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=PiPQoH3YfDw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/PiPQoH3YfDw/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/PiPQoH3YfDw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Sieniretkellä Lemmenlaaksossa ja Naisten Pankin hyväntekeväisyysjuoksuissa syksyllä 2015</h3></p>"
+
+      },
+      "geometry": {
+        "coordinates": [ 25.148305, 60.481966 ],
+        "type": "Point"
+      }
+    },
+	    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltj169ja",
+        "title": "Puistoblues 2015 special 5",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=Qr8HjZEue_0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Qr8HjZEue_0/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/Qr8HjZEue_0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Puistoblues 2015 special 5</h3></p>"
+
+      },
+      "geometry": {
+        "coordinates": [ 25.055565, 60.4529 ],
+        "type": "Point"
+      }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltideqw0",
+        "title": "Vanhiksen siivoustalkoot ja muita kevätuutisia Järvenpäästä 2015.",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=I1gVp3aoq80\" target=\"_new\"><img src=\"http://img.youtube.com/vi/I1gVp3aoq80/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/I1gVp3aoq80\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Vanhiksen siivoustalkoot ja muita kevätuutisia Järvenpäästä 2015.</h3></p>"
+
+      },
+      "geometry": {
+        "coordinates": [ 25.062003, 60.455673 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltj62650",
+        "title": "Kahvilakierros Kulmakonditoriossa ja muita kesäuutisia Järvenpäästä 2015",
+        "description": " \n<br>\n<a href=\"https://www.youtube.com/watch?v=nnBpnqZKUjk\" target=\"_new\"><img src=\"http://img.youtube.com/vi/nnBpnqZKUjk/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/nnBpnqZKUjk\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kahvilakierros Kulmakonditoriossa ja muita kesäuutisia Järvenpäästä 2015</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.088868, 60.472285 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltiog574",
+        "title": "Taidetalon viikonlopputapahtuma ja muita uutisia Järvenpäästä alkukesästä 2015.",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=FhcpSpU3I_Y\" target=\"_new\"><img src=\"http://img.youtube.com/vi/FhcpSpU3I_Y/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/FhcpSpU3I_Y\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3> Kahvilakierros Kulmakonditoriossa ja muita kesäuutisia Järvenpäästä 2015</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.075416, 60.47007 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjqgp18",
+        "title": "Järvenpään Opiston Leffakerhon syyskauden lipunmyynnissä ja Ces't Fantastique - ruokatorilla Janne-kadulla ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=Jxewvqu_k2k\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Jxewvqu_k2k/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/Jxewvqu_k2k\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Järvenpään Opiston Leffakerhon syyskauden lipunmyynnissä ja Ces't Fantastique - ruokatorilla Janne-kadulla </h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.093224, 60.474173 ],
+        "type": "Point"
+      }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltk42zsg",
+        "title": "Holvi 42 lautapelikauppa ja muita uutisia loppuvuodelta 2015",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=U1HTVrd-ZLc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/U1HTVrd-ZLc/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/U1HTVrd-ZLc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Holvi 42 lautapelikauppa ja muita uutisia loppuvuodelta 2015</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.08846, 60.47079 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjpecw7",
+        "title": "Maa Elää tapahtuma Jannella ja muita loppukesän uutisia Järvenpäästä 2015",
+        "description": " \n<br>\n<a href=\"https://www.youtube.com/watch?v=gKTeGbjdiME\" target=\"_new\"><img src=\"http://img.youtube.com/vi/gKTeGbjdiME/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/gKTeGbjdiME\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Maa Elää tapahtuma Jannella ja muita loppukesän uutisia Järvenpäästä 2015</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.088632, 60.471799 ],
+        "type": "Point"
+      }
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjdtqi2",
+        "title": "Meidän Festivaali, Järvenpään Martat ja kahvilakierros Lolipopissa ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=-0ewkPpuwl4\" target=\"_new\"><img src=\"http://img.youtube.com/vi/-0ewkPpuwl4/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/-0ewkPpuwl4\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Meidän Festivaali, Järvenpään Martat ja kahvilakierros Lolipopissa </h3></p>"                                                             
+      },
+      "geometry": {
+        "coordinates": [ 25.085896, 60.470403 ],
+        "type": "Point"
+      }
+    },
+	
+	 {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltisk3h6",
+        "title": "Puistoblues 2015 special 1",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=cTFKaMMW7mA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/cTFKaMMW7mA/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/cTFKaMMW7mA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Puistoblues 2015 special 1</h3></p>"                                                              
+      },
+      "geometry": {
+        "coordinates": [ 25.08684, 60.469774 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjo1ls6",
+        "title": "Setlementti Louhela ja kahvilakierros luomukahvila Iivarissa ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=-0dxJzAbAs8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/-0dxJzAbAs8/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/-0dxJzAbAs8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><h3>Setlementti Louhela ja kahvilakierros luomukahvila Iivarissa</h3></p>"                                                            
+      },
+      "geometry": {
+        "coordinates": [ 25.091563, 60.471408 ],
+        "type": "Point"
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjz81we",
+        "title": "Poikkea Putiikissa -viikon muotinäytöksessä ja Järvenpää-talolla kyselemässä Sami Hedbergistä ja Järvenpää-talon tarjonnasta. ",
+        "description": " <br>\n<a href=\"https://www.youtube.com/watch?v=dfCASUk6Blw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/dfCASUk6Blw/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/dfCASUk6Blw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Poikkea Putiikissa -viikon muotinäytöksessä ja Järvenpää-talolla kyselemässä Sami Hedbergistä ja Järvenpää-talon tarjonnasta. </h3></p>"                                                              
+      },
+      "geometry": {
+        "coordinates": [ 25.088881, 60.471041 ],
+        "type": "Point"
+      }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjbhwd1",
+        "title": "Kahvilakierros Tango Cafessa ja muita kesäuutisia Järvenpäästä 2015. ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=7HjoCpBXzdk\" target=\"_new\"><img src=\"http://img.youtube.com/vi/7HjoCpBXzdk/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/7HjoCpBXzdk\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kahvilakierros Tango Cafessa ja muita kesäuutisia Järvenpäästä 2015.</h3></p>"                                                              
+      },
+      "geometry": {
+        "coordinates": [ 25.087516, 60.470953 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltk0f3cf",
+        "title": " Järvenpää-talolla Tukikummien järjestämässä hyväntekeväisyyskonsertissa. ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=rz1ghnWqdLU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/rz1ghnWqdLU/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/rz1ghnWqdLU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Järvenpää-talolla Tukikummien järjestämässä hyväntekeväisyyskonsertissa.</h3></p>"                                                            
+      },
+      "geometry": {
+        "coordinates": [ 25.093524, 60.474139 ],
+        "type": "Point"
+      }
+    },
+	
+	 {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjtvjfa",
+        "title": "Sibelius-juhla Saunakallion koululla ja Seppälä Lives-tapahtumassa Kyrölässä ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=ujQPeSeykg8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/ujQPeSeykg8/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/ujQPeSeykg8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Sibelius-juhla Saunakallion koululla ja Seppälä Lives-tapahtumassa Kyrölässä</h3></p>"                                                            
+      },
+      "geometry": {
+        "coordinates": [ 25.070564, 60.492578 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltiyz959",
+        "title": "Puistoblues 2015 special 4",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=rhvyd0rlwgE\" target=\"_new\"><img src=\"http://img.youtube.com/vi/rhvyd0rlwgE/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/rhvyd0rlwgE\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Puistoblues 2015 special 4</h3></p>"                                                              
+      },
+      "geometry": {
+        "coordinates": [ 25.086743, 60.470175 ],
+        "type": "Point"
+      }
+    },
+		    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltifd2f1",
+        "title": "Kävelykadun kukka- ja puutarhamessuilla ja muita kevätuutisia Järvenpäästä 2015.",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=naPfP0Txb6I\" target=\"_new\"><img src=\"http://img.youtube.com/vi/naPfP0Txb6I/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/naPfP0Txb6I\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kävelykadun kukka- ja puutarhamessuilla ja muita kevätuutisia Järvenpäästä 2015.</h3></p>"                                                           
+      },
+      "geometry": {
+        "coordinates": [ 25.088299, 60.471418 ],
+        "type": "Point"
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltigq372",
+        "title": "Perhekeskus Pollen avoimet ovet ja muita kevätuutisia Järvenpäästä 2015.",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=AlBPnmoIgtQ\" target=\"_new\"><img src=\"http://img.youtube.com/vi/AlBPnmoIgtQ/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/AlBPnmoIgtQ\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Perhekeskus Pollen avoimet ovet ja muita kevätuutisia Järvenpäästä 2015.</h3></p>"                                                            
+      },
+      "geometry": {
+        "coordinates": [ 25.089136, 60.462131 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltj3ro3b",
+        "title": "Torin yhteislaulutapahtuma ja muita kesäuutisia Järvenpäästä 2015 ",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=oHmsjz4Y638\" target=\"_new\"><img src=\"http://img.youtube.com/vi/oHmsjz4Y638/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/oHmsjz4Y638\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Torin yhteislaulutapahtuma ja muita kesäuutisia Järvenpäästä 2015 </h3></p>"                                                            
+      },
+      "geometry": {
+        "coordinates": [ 25.086035, 60.469657 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltiwt2z8",
+        "title": "Puistoblues 2015 special 3",
+        "description": "<br>\n<a href=\"https://www.youtube.com/watch?v=nfxS-0o2AQk\" target=\"_new\"><img src=\"http://img.youtube.com/vi/nfxS-0o2AQk/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/nfxS-0o2AQk\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Puistoblues 2015 special 3</h3></p>"                                                              
+      },
+      "geometry": {
+        "coordinates": [ 25.087012, 60.470498 ],
+        "type": "Point"
+      }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iltjxey1c",
+        "title": "Harjulan koululla postimerkkitapahtumassa ja muita syysuutisia Järvenpäästä 2015 ",
+        "description": "<br> \n<a href=\"https://www.youtube.com/watch?v=RSTozZAg4Gg\" target=\"tollotin\"><img src=\"http://img.youtube.com/vi/RSTozZAg4Gg/mqdefault.jpg\" alt=\"Hyvät uutiset\"></a>\n",
+        "marker-size": "medium",
+        "marker-color": "#c091e6",
+        "marker-symbol": "cinema",
+		"video": "<iframe src=\"https://www.youtube.com/embed/RSTozZAg4Gg\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Harjulan koululla postimerkkitapahtumassa ja muita syysuutisia Järvenpäästä 2015</h3></p>"                                                             
+      },
+      "geometry": {
+        "coordinates": [ 25.076014, 60.472841 ],
+        "type": "Point"
+      }
+    }
+	
+	
+		]
+    } 
+ 
