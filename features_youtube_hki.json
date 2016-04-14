@@ -1,0 +1,2541 @@
+{
+  "id": "santeri.pe19hfdf",
+  "features": [
+    {
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/ewKfuseOU5U\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Pihlajasaari</h3></p>",
+        "title": "Pihlajasaari",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=ewKfuseOU5U\" target=\"_new\"><img src=\"http://img.youtube.com/vi/ewKfuseOU5U/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwgwfgb0"
+      },
+      "id": "002861b160e1191454dc9e82484c87a1",
+      "geometry": {
+        "coordinates": [ 24.914631, 60.138598 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+
+    {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=9bpnv0Pyl9Y\" target=\"_new\"><img src=\"http://img.youtube.com/vi/9bpnv0Pyl9Y/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx9y6wk4",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/9bpnv0Pyl9Y\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Putous \"Me ollaan\"</h3></p>",
+        "title": "Putous \"Me ollaan\""
+      },
+      "id": "08c4e1795c084a0d8a3f971194684694",
+      "geometry": {
+        "coordinates": [ 24.971065, 60.186449 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.975582, 60.175997 ]
+      },
+      "type": "Feature",
+      "properties": {
+        "description": "\n<br>\n<a href=\"https://www.youtube.com/watch?v=fkrj1Vfl5M\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/fkrj1Vfl5M/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwbh15q1",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/fkrj1Vfl5M\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Sompasauna</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Sompasauna"
+      },
+      "id": "0a95e389154d0771b4a6cbb124dae0e1"
+    },
+    {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=NBQMJoeI6Tw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/NBQMJoeI6Tw/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx0h1xoa",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/NBQMJoeI6Tw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Teatteri Jurkka</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Teatteri Jurkka"
+      },
+      "id": "0c84805a15e19d94538ad5188c0d48d2",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.954929, 60.172379 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.908151, 60.160472 ]
+      },
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=nZf-vggk6as\" target=\"_new\"><img src=\"http://img.youtube.com/vi/nZf-vggk6as/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx31qlg0",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/nZf-vggk6as\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Ruoholahti ja Jätkäsaari ilmasta 2015</h3></p>",
+        "title": "Ruoholahti ja Jätkäsaari ilmasta 2015"
+      },
+      "id": "0d62b27efa7d3c31fae468693022642a"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.938664, 60.158144 ],
+        "type": "Point"
+      },
+      "id": "0e862bf125e73f8d9b72443605ddaacf",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/DiaICcxMgxc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Mikael Agricolan kirkko</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Mikael Agricolan kirkko",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=DiaICcxMgxc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/DiaICcxMgxc/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxbshymm",
+        "marker-color": "#c5e96f"
+      }
+    },
+    {
+      "id": "0f4cb316e0245ff013fba379f5fdbfe6",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/-hBrSpDMEMM\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Art goes Kapakka - Oopperalaulajat aidan toisella puolella.</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Art goes Kapakka",
+        "description": "Oopperalaulajat aidan toisella puolella.\n<a href=\"https://www.youtube.com/watch?v=-hBrSpDMEMM\" target=\"_new\"><img src=\"http://img.youtube.com/vi/-hBrSpDMEMM/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilweutx61",
+        "marker-color": "#c5e96f"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.922989, 60.176584 ],
+        "type": "Point"
+      }
+    },
+      {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.955766, 60.167726 ]
+      },
+      "type": "Feature",
+      "id": "1032833d6402e552719b84d51afa49cb",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/xE-dyF8bTDA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>MM2011 Kultajuhla torilla</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "MM2011 Kultajuhla torilla",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=xE-dyF8bTDA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/xE-dyF8bTDA/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxa3qf48",
+        "marker-color": "#c5e96f"
+      }
+    },
+    {
+      "id": "12dbab5ffa38a10a0a37fe44c4a94c2e",
+      "properties": {
+        "title": "Juhannus CafÃ© Ursulan äärellä 2015",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/IcWSi07Rsg0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Juhannus CafÃ© Ursulan äärellä 2015</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx35jq62",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=IcWSi07Rsg0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/IcWSi07Rsg0/mqdefault.jpg\" ></a>\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.959049, 60.155282 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.980185, 60.18519 ]
+      },
+      "id": "12dbb52cac53f6dcc0b80d520ce94580",
+      "properties": {
+        "id": "marker-ilwbzgw03",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=W1BClgBGK_g\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/W1BClgBGK_g/mqdefault.jpg\" ></a>\n",
+        "title": "Kaupunki saarten päällä - Kalasatama",
+        "video": "<iframe src=\"https://www.youtube.com/embed/W1BClgBGK_g\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kaupunki saarten päällä - Kalasatama</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.958448, 60.208695 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/20iIZ2HcKxE\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kumpulan maauimala</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Kumpulan maauimala",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=20iIZ2HcKxE\" target=\"_new\"><img src=\"http://img.youtube.com/vi/20iIZ2HcKxE/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx5czkm0",
+        "marker-color": "#c5e96f"
+      },
+      "id": "132d5fe7d662ad91a36459d2a80174f7"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.978897, 60.208738 ]
+      },
+      "type": "Feature",
+      "id": "1590205e4ee168a7b5d6e5ea59274498",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=4dv4HouiKP0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/4dv4HouiKP0/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx6ldnc2",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/4dv4HouiKP0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Taidekaupunginosa Arabia</h3></p>",
+        "title": "Taidekaupunginosa Arabia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.952933, 60.175058 ],
+        "type": "Point"
+      },
+      "id": "1912f0028c152444f58a8ae22e6d9ebd",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx9sajm1",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=M-bFS-9-Zso\" target=\"_new\"><img src=\"http://img.youtube.com/vi/M-bFS-9-Zso/mqdefault.jpg\" ></a>\n",
+        "title": "Calamabi Union",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/M-bFS-9-Zso\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Calamabi Union</h3></p>"
+      }
+    },
+    {
+      "id": "1924a8df1cb1ba517fd66114c279908d",
+      "properties": {
+        "title": "VR:n makasiinit tulessa 2006 ",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/4Ik5ZGVB8_Q\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>VR:n makasiinit tulessa 2006 </h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxdifrra",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=4Ik5ZGVB8_Q\" target=\"_new\"><img src=\"http://img.youtube.com/vi/4Ik5ZGVB8_Q/mqdefault.jpg\" ></a>\n"
+      },
+      "geometry": {
+        "coordinates": [ 24.936819, 60.173681 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.977062, 60.187467 ]
+      },
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwby6fu2",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=dLOkGvKh1Os\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/dLOkGvKh1Os/mqdefault.jpg\" ></a>\n",
+        "title": "Kalasataman metroasema",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/dLOkGvKh1Os\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kalasataman metroasema</h3></p>"
+      },
+      "id": "19e419a2a1784ccbc039f83519efbc3b"
+    },
+    {
+      "properties": {
+        "description": "\nMe emme tee mitä emme tahdo.\n<a href=\"https://www.youtube.com/watch?v=51D1BhBgQ4I\" target=\"_new\"><img src=\"http://img.youtube.com/vi/51D1BhBgQ4I/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwgd9frc",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/51D1BhBgQ4I\"  width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Lapualaisooppera 1966</h3></p>",
+        "title": "Lapualaisooppera 1966"
+      },
+      "id": "1a39e28d34a4d39142b868f810534355",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.940896, 60.169161 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 25.146503, 60.213258 ],
+        "type": "Point"
+      },
+      "id": "1aad2edb9a2ab12b60fbd0ab4773c460",
+      "properties": {
+        "title": "Laura Närhi - Hetken tie on kevyt / Elokuva Vuosaari",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "video": "<iframe src=\"https://www.youtube.com/embed/C0i1_PyfIkc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Laura Närhi - Hetken tie on kevyt / Elokuva Vuosaari</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx6xpso7",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=C0i1_PyfIkc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/C0i1_PyfIkc/mqdefault.jpg\" ></a>\n"
+      }
+    },
+    {
+      "id": "1f71c0ce8f109ef6d8fbee39c7c6ee5c",
+      "properties": {
+        "title": "Uuno Turhapuro urheilee",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/ngv2J1diWcc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Uuno Turhapuro urheilee</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx6ud8k6",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=ngv2J1diWcc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/ngv2J1diWcc/mqdefault.jpg\" ></a>\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.932076, 60.191148 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.933353, 60.169674 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/CvbRRFzXR58\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Hoosianna Kampin kauppakeskuksessa</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "title": "Hoosianna Kampin kauppakeskuksessa",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=CvbRRFzXR58\" target=\"_new\"><img src=\"http://img.youtube.com/vi/CvbRRFzXR58/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwzhp4u5",
+        "marker-color": "#c5e96f"
+      },
+      "id": "21e31d0d7b99001009cdad237f301cf4"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.954028, 60.181333 ]
+      },
+      "type": "Feature",
+      "id": "2449cfcec9df4980018f64b84d43d2ac",
+      "properties": {
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/3eKhb5MX6pU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Muuan Mies - Hämeentie</h3></p>",
+        "title": "Muuan Mies - Hämeentie",
+        "description": "\n<br>\n<a href=\"https://www.youtube.com/watch?v=3eKhb5MX6pU\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/3eKhb5MX6pU/mqdefault.jpg\" alt=\"Ajasta aikuisuuteen\"></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilw8n7qoa"
+      }
+    },
+     {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.940584, 60.168878 ]
+      },
+      "type": "Feature",
+      "id": "2b4bcf7cca33148a2cd022fc47f0175b",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=RuWTf7w9PpM\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/RuWTf7w9PpM/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwcd7xz6",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "video": "<iframe src=\"https://www.youtube.com/embed/RuWTf7w9PpM\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>ATOMIROTTA - Aurinkoon</h3></p>",
+        "title": "ATOMIROTTA - Aurinkoon"
+      }
+    },
+    {
+      "id": "2b4f2baea8a0f26bbc7db163344916e6",
+      "properties": {
+        "title": "Komisario Palmu Eirassa 1960-luvulla (Komisario Palmu erehdys elokuvasta).",
+        "video": "<iframe src=\"https://www.youtube.com/embed/PHMQwysA6UI\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Komisario Palmu Eirassa 1960-luvulla (Komisario Palmu erehdys elokuvasta).</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilxbdod2i",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=PHMQwysA6UI\" target=\"_new\"><img src=\"http://img.youtube.com/vi/PHMQwysA6UI/mqdefault.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.938192, 60.156852 ],
+        "type": "Point"
+      }
+    },
+    {
+      "id": "2b79a7bb63b2159c8577f2cca969eb4f",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwdnyb30",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=SppzqIRVQa0\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/SppzqIRVQa0/mqdefault.jpg\" ></a>\n",
+        "title": "Tervasaaren Kesäteatteri - Myrskyluodon Maija",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/SppzqIRVQa0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Tervasaaren Kesäteatteri - Myrskyluodon Maija</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 24.96849, 60.173783 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.931465, 60.17413 ]
+      },
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/HKIVg8wOw_c\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Mustapippuri - Manalan makkarat 2001</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Mustapippuri - Manalan makkarat 2001",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=HKIVg8wOw_c\" target=\"_new\"><img src=\"http://img.youtube.com/vi/HKIVg8wOw_c/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxuwnih7",
+        "marker-color": "#c5e96f"
+      },
+      "id": "2f6c0a57f2bf1cb3133f3929ae7ff2c2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.952096, 60.2162 ]
+      },
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/3zLzA7AMomA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Käpylä 1960-luvulla</h3></p>",
+        "title": "Käpylä 1960-luvulla",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=3zLzA7AMomA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/3zLzA7AMomA/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx55v9mp"
+      },
+      "id": "31053532be64bf24a298d52c25735756"
+    },
+    {
+      "properties": {
+        "id": "marker-ilx5ml5r1",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=rJ32T-erML8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/rJ32T-erML8/mqdefault.jpg\" ></a>\n",
+        "title": "Wigwam revisited @Kumpulan kyläjuhlat",
+        "video": "<iframe src=\"https://www.youtube.com/embed/rJ32T-erML8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Wigwam revisited @Kumpulan kyläjuhlat</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "id": "31c2aea1d591eb52fde50e0c1b352e38",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.963641, 60.209964 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.943696, 60.166664 ]
+      },
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=jSlZ65xbXJo\" target=\"_new\"><img src=\"http://img.youtube.com/vi/jSlZ65xbXJo/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwfcxxq6",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/jSlZ65xbXJo\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Mannerheimintie alusta loppuun 2014</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Mannerheimintie alusta loppuun 2014"
+      },
+      "id": "31fafee7173c856ff59e70b79cf4329d"
+    },
+    {
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwzba293",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=l6R9OXYIvd4\" target=\"_new\"><img src=\"http://img.youtube.com/vi/l6R9OXYIvd4/mqdefault.jpg\" ></a>\n",
+        "title": "Kansallisooppera Kampissa",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "video": "<iframe src=\"https://www.youtube.com/embed/l6R9OXYIvd4\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kansallisooppera Kampissa</h3></p>"
+      },
+      "id": "3221f80259478c2c88f38fafc847d4d1",
+      "geometry": {
+        "coordinates": [ 24.933353, 60.169311 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+     {
+      "id": "340f9b7be62d485f9851c0211cf96599",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/o6i0SUvx5gE\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kahvila Suomi</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Kahvila Suomi",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=o6i0SUvx5gE\" target=\"_new\"><img src=\"http://img.youtube.com/vi/o6i0SUvx5gE/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwfxtqv9",
+        "marker-color": "#c5e96f"
+      },
+      "geometry": {
+        "coordinates": [ 24.938567, 60.159543 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+     {
+      "id": "380ed3a8b13897284ef6b7fe5d9154c4",
+      "properties": {
+        "title": "Helsingin kasvitieteellinen puutarha",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pS9biGwxevE\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsingin kasvitieteellinen puutarha</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "id": "marker-ilxucmp46",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=pS9biGwxevE\" target=\"_new\"><img src=\"http://img.youtube.com/vi/pS9biGwxevE/mqdefault.jpg\" ></a>\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.946657, 60.175378 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "3915c7de4b47dfc36ffe97a887a6f060",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=VR6QCn86aKs\" target=\"_new\"><img src=\"http://img.youtube.com/vi/VR6QCn86aKs/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx54qeto",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/VR6QCn86aKs\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>I love Käpylä</h3></p>",
+        "title": "I love Käpylä"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.944887, 60.213897 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.932892, 60.168505 ],
+        "type": "Point"
+      },
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/2HVD_jngZx4\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Tavastin takahuone Juhani Merimaan esittelemänä.</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Tavastin takahuone Juhani Merimaan esittelemänä.",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=2HVD_jngZx4\" target=\"_new\"><img src=\"http://img.youtube.com/vi/2HVD_jngZx4/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwfnqtz7",
+        "marker-color": "#c5e96f"
+      },
+      "id": "3bb236b563d038aa6df06865e37fd1ff"
+    },
+    {
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/EsKqG-KfXZg\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Jäänmurtaja Voima</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Jäännmurtaja Voima",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=EsKqG-KfXZg\" target=\"_new\"><img src=\"http://img.youtube.com/vi/EsKqG-KfXZg/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxczet45",
+        "marker-color": "#c5e96f"
+      },
+      "id": "3cc7a251378bc2e76e99de3cc5af9e51",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.974799, 60.169951 ],
+        "type": "Point"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.944758, 60.162436 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=Ud1ExV1_U0c\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Ud1ExV1_U0c/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx3hxe87",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/Ud1ExV1_U0c\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Let's take a walk! Punavuoresta keskustaan.</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Let's take a walk! Punavuoresta keskustaan."
+      },
+      "id": "3f43c42a59ab8e1cde023340f973d87c"
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.955894, 60.171664 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "401ec2b1a1db5295bc97fbf67850b49d",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=Wn8KaVDc71k\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Wn8KaVDc71k/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxbemfhj",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/Wn8KaVDc71k\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Komisario Palmun laatan paljastus 2005</h3></p>",
+        "title": "Komisario Palmun laatan paljastus 2005"
+      }
+    },
+     {
+      "geometry": {
+        "coordinates": [ 24.934126, 60.166888 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "4518ec1b2ac1a5b99f333115675b56a6",
+      "properties": {
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/YjrOqg1lzY0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Art goes Kapakka - Zarkus Poussa Helmessä</h3></p>",
+        "title": "Art goes Kapakka - Zarkus Poussa Helmessä",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=YjrOqg1lzY0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/YjrOqg1lzY0/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwf18if2"
+      }
+    },
+    {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=DSVWXLFAPM8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/DSVWXLFAPM8/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxbqcf8l",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/DSVWXLFAPM8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Dokumentti Jouko Turkasta</h3></p>",
+        "title": "Dokumentti Jouko Turkasta"
+      },
+      "id": "458d68e67a11cefd6e24b853431293b0",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.935821, 60.15713 ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.952815, 60.184155 ]
+      },
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilw8tofnb",
+        "description": "\n<br>\n<a href=\"https://www.youtube.com/watch?v=Pptvxd_NDSE\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/Pptvxd_NDSE/mqdefault.jpg\" ></a>\n",
+        "title": "Kallio Block Party 2015",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/\n<br>\n<a href=\"https://www.youtube.com/watch?v=Pptvxd_NDSE\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/Pptvxd_NDSE/mqdefault.jpg\" ></a>\n\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kallio Block Party 2015</h3></p>"
+      },
+      "id": "48e7ecb145b3406ecbb5172d68f62b7f"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.953126, 60.153168 ]
+      },
+      "type": "Feature",
+      "id": "49f80a0d6b07e9a3a66cbcaf25aae589",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/YG4k-u5tPr8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Uunisaari ja Liuskaluoto</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Uunisaari ja Liuskaluoto",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=YG4k-u5tPr8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/YG4k-u5tPr8/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwh01221",
+        "marker-color": "#c5e96f"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.952526, 60.169935 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/y6120QOlsfU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Darude - Sandstorm</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Darude - Sandstorm",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=y6120QOlsfU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/y6120QOlsfU/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx0dv8u9",
+        "marker-color": "#c5e96f"
+      },
+      "id": "4ab093e7d76929bb05eb32cf3f80e888"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.953373, 60.18647 ]
+      },
+      "type": "Feature",
+      "id": "4b20d4a8ff7a7738b8d01946b5407584",
+      "properties": {
+        "description": "<a href=\"https://www.youtube.com/watch?v=1b37ydt9tdE\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/1b37ydt9tdE/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwdkh2dc",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/1b37ydt9tdE\"  width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Paperi T ja Kallion kierros</h3></p>",
+        "title": "Paperi T ja Kallion kierros"
+      }
+    },
+    {
+      "id": "4b9a8361b9d4a2b2b78f36ef5ef03dcb",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/mm4hPHxue-o\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Korkeasaari - 125 vuotta eläimellisiä muistoja</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Korkeasaari - 125 vuotta eläimellisiä muistoja",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=mm4hPHxue-o\" target=\"_new\"><img src=\"http://img.youtube.com/vi/mm4hPHxue-o/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxd5rt77",
+        "marker-color": "#c5e96f"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.983371, 60.176798 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx4eggig",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=OHka1eAtlqw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/OHka1eAtlqw/mqdefault.jpg\" ></a>\n",
+        "title": "Katajanokka 2012",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/OHka1eAtlqw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Katajanokka 2012</h3></p>"
+      },
+      "id": "4cc0460d6e355db056d29a0d37b2c756",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.972224, 60.168243 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.935263, 60.172545 ]
+      },
+      "properties": {
+        "id": "marker-ilxcngk30",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=KbwgCZJNZDA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/KbwgCZJNZDA/mqdefault.jpg\" ></a>\n",
+        "title": "Palecafe : Miten historiaa luetaan?",
+        "video": "<iframe src=\"https://www.youtube.com/embed/KbwgCZJNZDA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Palecafe : Miten historiaa luetaan?</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium"
+      },
+      "id": "50f3d85ca51c6cf1c3785b722fc6d3c8"
+    },
+    {
+      "id": "54aafb186a8707dd249567b2d3e65823",
+      "properties": {
+        "id": "marker-ilx44ok3e",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=79LusVXl8ok\" target=\"_new\"><img src=\"http://img.youtube.com/vi/79LusVXl8ok/mqdefault.jpg\" ></a>\n",
+        "title": "Helsinki ilmasta : Velodromi",
+        "video": "<iframe src=\"https://www.youtube.com/embed/79LusVXl8ok\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta : Velodromi</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.942698, 60.203279 ],
+        "type": "Point"
+      }
+    },
+    {
+      "id": "565f3d498c0488660f6c871d24bb163f",
+      "properties": {
+        "id": "marker-ilwdp37m1",
+        "marker-color": "#c5e96f",
+        "description": "Elämää Krunikassa\n\n<a href=\"https://www.youtube.com/watch?v=32TGImy0XU8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/32TGImy0XU8/mqdefault.jpg\" ></a>\n",
+        "title": "Elämää Krunikassa",
+        "video": "<iframe src=\"https://www.youtube.com/embed/32TGImy0XU8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Elämää Krunikassa</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.951732, 60.17413 ],
+        "type": "Point"
+      }
+    },
+     {
+      "geometry": {
+        "coordinates": [ 24.942591, 60.155149 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "588421c672b504c55ad0ac3ac6057508",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/Jx0HnqWwIfc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Lauvurinkatu edestakaisin</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Lauvurinkatu edestakaisin",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=Jx0HnqWwIfc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Jx0HnqWwIfc/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwg0b6oa",
+        "marker-color": "#c5e96f"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 25.0075, 60.181626 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "58b4ad6cc7c8014e8aef01e74f0b1645",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx3umbs9",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=c_pw5wYRed8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/c_pw5wYRed8/mqdefault.jpg\" ></a>\n",
+        "title": "Helsinki ilmasta : Kulosaaren kasino",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/c_pw5wYRed8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta : Kulosaaren kasino</h3></p>"
+      }
+    },
+    {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=DRc5UIBvGw0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/DRc5UIBvGw0/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx757pr9",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/DRc5UIBvGw0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>'Mies, joka ei osannut sanoa ei' Puu-Vallilassa</h3></p>",
+        "title": "'Mies, joka ei osannut sanoa ei Puu-Vallilassa"
+      },
+      "id": "5a81160d238998235ec490d5a2cd86e7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.957418, 60.192582 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=pke26DCe65M\" target=\"_new\"><img src=\"http://img.youtube.com/vi/pke26DCe65M/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx431rtd",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pke26DCe65M\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta : Roihuvuoren vesitorni</h3></p>",
+        "title": "Helsinki ilmasta : Roihuvuoren vesitorni"
+      },
+      "id": "5c31dfbde594c357aa2a96b2603b14cb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 25.049214, 60.197296 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.951539, 60.169503 ]
+      },
+      "id": "5c71897051544958f825ec80042b490d",
+      "properties": {
+        "title": "Helsinki Pride 2015",
+        "video": "<iframe src=\"https://www.youtube.com/embed/gnXNW_YSju0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki Pride 2015</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilx7bjbva",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=gnXNW_YSju0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/gnXNW_YSju0/mqdefault.jpg\" ></a>\n"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.989089, 60.145393 ]
+      },
+      "type": "Feature",
+      "id": "5e49992849690c818faa25925d06d9ac",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=IRSfvR35dIU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/IRSfvR35dIU/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwgpcykf",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/IRSfvR35dIU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Suomenlinna</h3></p>",
+        "title": "Suomenlinna"
+      }
+    },
+    {
+      "id": "5ea65ad849e01f18a408c3daa79257f4",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=drgeEr9XPm8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/drgeEr9XPm8/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxu6cak5",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/drgeEr9XPm8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kiasman kulmilla </h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Kiasman kulmilla "
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.936422, 60.172305 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.949693, 60.214452 ]
+      },
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx570qdq",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=HCpubY_21AQ\" target=\"_new\"><img src=\"http://img.youtube.com/vi/HCpubY_21AQ/mqdefault.jpg\" ></a>\n",
+        "title": "Käpylä (Dokumentti/Opas)",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/HCpubY_21AQ\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Käpylä (Dokumentti/Opas)</h3></p>"
+      },
+      "id": "602da67322987817e3a97ddb5d2ea775"
+    },
+    {
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/2Y9zHR_Awh4\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta : Pasilan veturitallit</h3></p>",
+        "title": "Helsinki ilmasta : Pasilan veturitallit",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=2Y9zHR_Awh4\" target=\"_new\"><img src=\"http://img.youtube.com/vi/2Y9zHR_Awh4/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx3zj2gb"
+      },
+      "id": "613a4716a0e0753990b348409d56dd83",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.925575, 60.212362 ],
+        "type": "Point"
+      }
+    },
+     {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=QC-sUvNmK4U\" target=\"_new\"><img src=\"http://img.youtube.com/vi/QC-sUvNmK4U/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxda02v9",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/QC-sUvNmK4U\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>24 hours of Merihaka</h3></p>",
+        "title": "24 hours of Merihaka"
+      },
+      "id": "63f3618da02a66a3143e50e2741609ce",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.959135, 60.179641 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6473dc72f8d0597608eaec52cb3393a9",
+      "properties": {
+        "title": "Harjutorin sauna",
+        "video": "<iframe src=\"https://www.youtube.com/embed/fNHV5ZvOTQw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Harjutorin sauna</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilwbfg2f0",
+        "marker-color": "#c5e96f",
+        "description": "\n<br>\n<a href=\"https://www.youtube.com/watch?v=fNHV5ZvOTQw\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/fNHV5ZvOTQw/mqdefault.jpg\" ></a>\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.957611, 60.186849 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "6a1ecb8c376dca3c75ee673641c13a95",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=pD5rbyxv0u8\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/pD5rbyxv0u8/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwcaocz5",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pD5rbyxv0u8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Happoradio - Pois Kalliosta</h3></p>",
+        "title": "Happoradio - Pois Kalliosta"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.949318, 60.184704 ],
+        "type": "Point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.939758, 60.188422 ]
+      },
+      "type": "Feature",
+      "id": "6c85eb03c7a1cef9693ef8149ad36fdc",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=cffgejdy_aE\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/cffgejdy_aE/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwe2zp03",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/cffgejdy_aE\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Ystävien kesken Linnanmäki</h3></p>",
+        "title": "Ystävien kesken Linnanmäki"
+      }
+    },
+    {
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/lH2JVHJExKs\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Finlandia-talon tarina</h3></p>",
+        "title": "Finlandia-talon tarina",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=lH2JVHJExKs\" target=\"_new\"><img src=\"http://img.youtube.com/vi/lH2JVHJExKs/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxtu5m63"
+      },
+      "id": "6dd20bba1c2d80ed4a951fc6940e22b0",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.933557, 60.176141 ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.937344, 60.200554 ]
+      },
+      "type": "Feature",
+      "id": "7289db56ee70be2f0472e2eece2b0c06",
+      "properties": {
+        "id": "marker-ilxw1t610",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=jOsW6BHzrD8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/jOsW6BHzrD8/mqdefault.jpg\" ></a>\n",
+        "title": "Chisu - Sabotage",
+        "video": "<iframe src=\"https://www.youtube.com/embed/jOsW6BHzrD8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Chisu - Sabotage</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "music"
+      }
+    },
+    {
+      "properties": {
+        "title": "Unelmille Siivet flashmob Kamppi 20.11.2013",
+        "video": "<iframe src=\"https://www.youtube.com/embed/M2gCWUuPX7I\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Unelmille Siivet flashmob Kamppi 20.11.2013</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "id": "marker-ilwzbwlj4",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=M2gCWUuPX7I\" target=\"_new\"><img src=\"http://img.youtube.com/vi/M2gCWUuPX7I/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "7426e2163c68c9ec23eaee607b708c61",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.934769, 60.169652 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 25.03282, 60.21184 ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Helsinki ilmasta : Herttoniemen hyppyrimäki",
+        "video": "<iframe src=\"https://www.youtube.com/embed/K22IS4e71WM\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta : Herttoniemen hyppyrimäki</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "id": "marker-ilx4b1buf",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=K22IS4e71WM\" target=\"_new\"><img src=\"http://img.youtube.com/vi/K22IS4e71WM/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "749b7c703fe43b774a4975c4eede8b8c"
+    },
+    {
+      "id": "759e135c2143566094df416d20754a88",
+      "properties": {
+        "title": "Bomfunk MC's",
+        "video": "<iframe src=\"https://www.youtube.com/embed/ymNFyxvIdaM\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Bomfunk MC's</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "id": "marker-ilx0czwg8",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=ymNFyxvIdaM\" target=\"_new\"><img src=\"http://img.youtube.com/vi/ymNFyxvIdaM/mqdefault.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.95023, 60.17946 ],
+        "type": "Point"
+      }
+    },
+    {
+      "id": "7815b42d9a058c306f6d939ca596ed00",
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/K4jEc9R0Mnc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Harakan saari</h3></p>",
+        "title": "Harakan saari",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=K4jEc9R0Mnc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/K4jEc9R0Mnc/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx38c9v4"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.957203, 60.151267 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.984712, 60.176216 ],
+        "type": "Point"
+      },
+      "id": "7babd03398b74d9f6570162aaf256c8d",
+      "properties": {
+        "id": "marker-ilxd4f446",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=wjCI3H92YMQ\" target=\"_new\"><img src=\"http://img.youtube.com/vi/wjCI3H92YMQ/mqdefault.jpg\" ></a>\n",
+        "title": "Korkeasaaren amurintiikeri saa kokonaisen sian",
+        "video": "<iframe src=\"https://www.youtube.com/embed/wjCI3H92YMQ\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Korkeasaaren amurintiikeri saa kokonaisen sian</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "id": "7cc286ffd0a830405419a4ff523a01ef",
+      "properties": {
+        "title": "",
+        "video": "<iframe src=\"https://www.youtube.com/embed/QZRfJof8DRg\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kosonen - Tehtaankadulla</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "id": "marker-ilxa5uvdb",
+        "marker-color": "#c5e96f",
+        "description": "Kosonen - Tehtaankadulla\n<a href=\"https://www.youtube.com/watch?v=QZRfJof8DRg\" target=\"_new\"><img src=\"http://img.youtube.com/vi/QZRfJof8DRg/mqdefault.jpg\" ></a>\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.950176, 60.158598 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "82353f1b38bd16be4b724d398a9062db",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=fsEsiVF1L9k\" target=\"_new\"><img src=\"http://img.youtube.com/vi/fsEsiVF1L9k/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxcov1v1",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/fsEsiVF1L9k\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Eduskuntatalo</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Eduskuntatalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.9336, 60.172652 ]
+      },
+      "type": "Feature"
+    },
+     {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=jF-QuKeGaZE\" target=\"_new\"><img src=\"http://img.youtube.com/vi/jF-QuKeGaZE/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwh9c2k4",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/jF-QuKeGaZE\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta - Olympiastadion</h3></p>",
+        "title": "Helsinki ilmasta - Olympiastadion"
+      },
+      "id": "850637612532b74c2c0d22ddf8826d1a",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.927248, 60.186022 ],
+        "type": "Point"
+      }
+    },
+    {
+      "id": "88ecd4460b99be28453f6480956f4af8",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=Xa3WL7Mom8M\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/Xa3WL7Mom8M/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwdhis2a",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/Xa3WL7Mom8M\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Aurinkolahti BeachFutis 2015</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Aurinkolahti BeachFutis 2015"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 25.15603, 60.201573 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "video": "<iframe src=\"https://www.youtube.com/embed/cIq_XlFzp0E\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Reino Nordin at Karhupuisto</h3></p>",
+        "title": "Reino Nordin at Karhupuisto",
+        "description": "\n<br>\n<a href=\"https://www.youtube.com/watch?v=cIq_XlFzp0E\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/cIq_XlFzp0E/mqdefault.jpg\" alt=\"Ajasta aikuisuuteen\"></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilw8g7c09"
+      },
+      "id": "89def2593f0178a091fd1e6d34f2d037",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.952483, 60.183904 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/MnLJWex_DcU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsingin keskusta ilmasta 2015</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Helsingin keskusta ilmasta 2015",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=MnLJWex_DcU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/MnLJWex_DcU/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx36bvk3",
+        "marker-color": "#c5e96f"
+      },
+      "id": "8c58d833867084f2b93e920b7bc6a532",
+      "geometry": {
+        "coordinates": [ 24.942612, 60.167325 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.945273, 60.174071 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "8dbaab56a70c735a60adc978d186ea4a",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=vd4emCNml8Q\" target=\"_new\"><img src=\"http://img.youtube.com/vi/vd4emCNml8Q/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx33gxg1",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/vd4emCNml8Q\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Maailma Kylässä Festival 2015</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Maailma Kylässä Festival 2015"
+      }
+    },
+    {
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/V6XhLr_JwCc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Hietaniemen hautausmaa - Taiteilijamäki</h3></p>",
+        "title": "Hietaniemen hautausmaa - Taiteilijamäki",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=V6XhLr_JwCc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/V6XhLr_JwCc/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx0qc4dc"
+      },
+      "id": "92ac9394c77b12ea2e0690f36e37b276",
+      "geometry": {
+        "coordinates": [ 24.918762, 60.1697 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "description": "\n<br>\n<a href=\"https://www.youtube.com/watch?v=y8BEminEYe4\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/y8BEminEYe4/mqdefault.jpg\" alt=\"Ajasta aikuisuuteen\"></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilw8axj38",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/y8BEminEYe4\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Fredi - Kolmatta linjaa 1983</h3></p>",
+        "title": "Fredi - Kolmatta linjaa 1983"
+      },
+      "id": "939c266971fcf7fedc03c3ab58f95774",
+      "geometry": {
+        "coordinates": [ 24.951088, 60.181701 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/XBaxtw2QJP8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Ravintola Troikka</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Ravintola Troikka",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=XBaxtw2QJP8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/XBaxtw2QJP8/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx0lg0xb",
+        "marker-color": "#c5e96f"
+      },
+      "id": "947990482b1225427faeb4c3822786b7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.921251, 60.174962 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "95a9b2cb05a9f9defeeeded71aa06e28",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=TGYtnd7M0S0\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/TGYtnd7M0S0/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwdcopj8",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/TGYtnd7M0S0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Avain - Roihuvuori</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Avain - Roihuvuori"
+      },
+      "geometry": {
+        "coordinates": [ 25.060908, 60.201647 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "title": "Malmin lentoaseman kohtalo 2015",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/lQ71UkIAuhk\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Malmin lentoaseman kohtalo 2015</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx5069an",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=lQ71UkIAuhk\" target=\"_new\"><img src=\"http://img.youtube.com/vi/lQ71UkIAuhk/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "95cb4eeb051bcaae91e78c69e1f0bb6d",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 25.046682, 60.248927 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwfa4we5",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=L-qsPjUAgcs\" target=\"_new\"><img src=\"http://img.youtube.com/vi/L-qsPjUAgcs/mqdefault.jpg\" ></a>\n",
+        "title": "Tehtaankatu edestakaisin 2014",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/L-qsPjUAgcs\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Tehtaankatu edestakaisin 2014</h3></p>"
+      },
+      "id": "98836020e02477eb0da567b83ca15a9f",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.933782, 60.157664 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.939125, 60.168073 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "98f2d8332ab0b2735b185ee0f98f4cca",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=RSJjPh385Bs\" target=\"_new\"><img src=\"http://img.youtube.com/vi/RSJjPh385Bs/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxa04s45",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/RSJjPh385Bs\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Yrjönkadun uimahalli</h3></p>",
+        "title": "Yrjönkadun uimahalli"
+      }
+    },
+    {
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwer6yw0",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=eaCkL2SkC58\" target=\"_new\"><img src=\"http://img.youtube.com/vi/eaCkL2SkC58/mqdefault.jpg\" ></a>\n",
+        "title": "Tin Tin Tango",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/eaCkL2SkC58\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Tin Tin Tango</h3></p>"
+      },
+      "id": "996663e2b78792a4a25158cb49d68887",
+      "geometry": {
+        "coordinates": [ 24.925135, 60.178676 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.942408, 60.180335 ]
+      },
+      "id": "99bf448651e0b3c0dd85ca4d3a1438d7",
+      "properties": {
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/uXJy8Wf5VUI\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Huvilateltta - Pepe Willberg</h3></p>",
+        "title": "Huvilateltta - Pepe Willberg",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=uXJy8Wf5VUI\" target=\"_new\"><img src=\"http://img.youtube.com/vi/uXJy8Wf5VUI/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxdlm74c"
+      }
+    },
+    {
+      "id": "9a66fa55819ba8216337063b560138c9",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/R-LNyt9l6rU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kaivopuisto ilmasta</h3></p>",
+        "title": "Kaivopuisto ilmasta",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=R-LNyt9l6rU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/R-LNyt9l6rU/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxcx6dy4"
+      },
+      "geometry": {
+        "coordinates": [ 24.957311, 60.156649 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "9ba36dfefae9a5d1fc18f9fa76062870",
+      "properties": {
+        "title": "Hip Helsinki - The New York Times 2014",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/kQcQxxDqT6A\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Hip Helsinki - The New York Times 2014</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwdj2xvb",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=kQcQxxDqT6A\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/kQcQxxDqT6A/mqdefault.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.949607, 60.181466 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/EWJrVaVGceo\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta - Halkolaituri</h3></p>",
+        "title": "Helsinki ilmasta - Halkolaituri",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=EWJrVaVGceo\" target=\"_new\"><img src=\"http://img.youtube.com/vi/EWJrVaVGceo/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwh6xvk3"
+      },
+      "id": "9edc88dfb32fc650b2113d497fed7f5d",
+      "geometry": {
+        "coordinates": [ 24.962053, 60.171851 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.949436, 60.183253 ],
+        "type": "Point"
+      },
+      "id": "9f5fd4fe20d308d15bd53ff3e25cda69",
+      "properties": {
+        "title": "Calamari Union",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/x_41lpy2PhM\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Calamari Union</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx9r7vh0",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=x_41lpy2PhM\" target=\"_new\"><img src=\"http://img.youtube.com/vi/x_41lpy2PhM/mqdefault.jpg\" ></a>\n"
+      }
+    },
+    {
+      "id": "9f70411c953fd713dd7cd27506f8ec3a",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx4xp0am",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=eL0pngZnqoA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/eL0pngZnqoA/mqdefault.jpg\" ></a>\n",
+        "title": "DC-3 OH-LCH laskeutuu Helsinki-Malmin lentokentälle",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/eL0pngZnqoA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>DC-3 OH-LCH laskeutuu Helsinki-Malmin lentokentälle</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 25.043077, 60.254719 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "a08d0d5360e0b3daa81443a2f5620e8c",
+      "properties": {
+        "id": "marker-ilwz9hsk1",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=jaKko3VGAnY\" target=\"_new\"><img src=\"http://img.youtube.com/vi/jaKko3VGAnY/mqdefault.jpg\" ></a>\n",
+        "title": "Flashmob Finlandia",
+        "video": "<iframe src=\"https://www.youtube.com/embed/jaKko3VGAnY\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Flashmob Finlandia</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.941335, 60.171424 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/14gIX3bX8Vw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Darude - Out of Control @Yrjönkadu uimahalli</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Darude - Out of Control @Yrjönkadu uimahalli",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=14gIX3bX8Vw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/14gIX3bX8Vw/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxa0p1r6",
+        "marker-color": "#c5e96f"
+      },
+      "id": "a20931a2174bfe7996b610f93a8bb82a",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.938921, 60.168046 ]
+      }
+    },
+    {
+      "properties": {
+        "description": "<a href=\"https://www.youtube.com/watch?v=pI-8opPFX3Q\" target=\"_new\"><img src=\"http://img.youtube.com/vi/pI-8opPFX3Q/mqdefault.jpg\"></a>\n",
+        "id": "marker-ilxaka6we",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pI-8opPFX3Q\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Punajuuri Blockparty, Viiskulma 2010</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Punajuuri Blockparty, Viiskulma 2010"
+      },
+      "id": "a2f624b6592a54b9268e49641e1b94cd",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.941958, 60.160696 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "title": "Mäkelän koulu elokuvassa Pekka ja Pätkä ketjukolarissa",
+        "video": "<iframe src=\"https://www.youtube.com/embed/KNYJQ_cw2zQ\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Mäkelän koulu elokuvassa Pekka ja Pätkä ketjukolarissa</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "id": "marker-ilx732sd8",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=KNYJQ_cw2zQ\" target=\"_new\"><img src=\"http://img.youtube.com/vi/KNYJQ_cw2zQ/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "a385ef8c5b0cd161d4cba37932c562d1",
+      "geometry": {
+        "coordinates": [ 24.957075, 60.196331 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.940799, 60.168894 ]
+      },
+      "id": "a55e90508e51a093c2727225b1f560bd",
+      "properties": {
+        "title": "Vanhan valtaus 25.11.1968",
+        "video": "<iframe src=\"https://www.youtube.com/embed/uhCNP_K3HEU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Vanhan valtaus 25.11.1968</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilwgfqe0d",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=uhCNP_K3HEU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/uhCNP_K3HEU/mqdefault.jpg\" ></a>\n"
+      }
+    },
+    {
+      "id": "a57f4486e9f8b6ee9c6aad397766d14f",
+      "properties": {
+        "title": "Viimeiset vaeltajat",
+        "video": "<iframe src=\"https://www.youtube.com/embed/Qko3SzoqsnQ\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Viimeiset vaeltajat</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilx6o0gh4",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=Qko3SzoqsnQ\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Qko3SzoqsnQ/mqdefault.jpg\" ></a>\n"
+      },
+      "geometry": {
+        "coordinates": [ 24.923901, 60.191153 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "a75a320ba5f34134127aa072a563f3c4",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=CX93Hzlkte4\" target=\"_new\"><img src=\"http://img.youtube.com/vi/CX93Hzlkte4/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx0tcdbd",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/CX93Hzlkte4\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kingston Wall Lepakossa 1994</h3></p>",
+        "title": "Kingston Wall Lepakossa 1994"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.913666, 60.165057 ],
+        "type": "Point"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.981386, 60.216114 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "a7ca7228886b7f2a06035fd48df83d88",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=pfC4TE8XN6M\" target=\"_new\"><img src=\"http://img.youtube.com/vi/pfC4TE8XN6M/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx3xhhaa",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pfC4TE8XN6M\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta : Vanhankaupunginkoski</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Helsinki ilmasta : Vanhankaupunginkoski"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.946539, 60.158673 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwg50j5b",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=-qJWJv9dhzs\" target=\"_new\"><img src=\"http://img.youtube.com/vi/-qJWJv9dhzs/mqdefault.jpg\" ></a>\n",
+        "title": "Z Salamapartio Ravintola Sea Horsessa",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/-qJWJv9dhzs\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Z Salamapartio Ravintola Sea Horsessa</h3></p>"
+      },
+      "id": "a948164b67c896da9f2d261d444b324d"
+    },
+    {
+      "id": "a9609c4eafd7f2c0d88f1ee4b51b2e8b",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/TrCPxaTXeAU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Stockmann Herkun flashmob 20.12.2014</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Stockmann Herkun flashmob 20.12.2014",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=TrCPxaTXeAU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/TrCPxaTXeAU/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwzanj62",
+        "marker-color": "#c5e96f"
+      },
+      "geometry": {
+        "coordinates": [ 24.942526, 60.168067 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.946238, 60.158299 ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/Y51VZH6wc28\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Poliisimurhat Steen Christensen</h3></p>",
+        "title": "Poliisimurhat Steen Christensen",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=Y51VZH6wc28\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Y51VZH6wc28/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwgilfve"
+      },
+      "id": "abc3fa7f8886f87930749f262e9dc38a"
+    },
+    {
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx3s76s8",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=0RHDN5_ZrCs\" target=\"_new\"><img src=\"http://img.youtube.com/vi/0RHDN5_ZrCs/mqdefault.jpg\" ></a>\n",
+        "title": "Helsinki ilmasta : Lauttasaaren vesitorni",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/0RHDN5_ZrCs\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta : Lauttasaaren vesitorni</h3></p>"
+      },
+      "id": "ad5ef0f2f7a5b0b1fd87e73193683873",
+      "geometry": {
+        "coordinates": [ 24.88296, 60.16329 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ade39da91f75011e9de7f7658d09536b",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxacux8c",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=QC9N7YxM_1c\" target=\"_new\"><img src=\"http://img.youtube.com/vi/QC9N7YxM_1c/mqdefault.jpg\" ></a>\n",
+        "title": "The Boys are training to climb a tree at Tähtitorninmäki",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/QC9N7YxM_1c\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>The Boys are training to climb a tree at Tähtitorninmäki</h3></p>"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.954317, 60.162308 ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Venäjän suurlähetystön edessä 2006",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/Q8xelS8G-SY\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Venäjän suurlähetystön edessä 2006</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxa5a05a",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=Q8xelS8G-SY\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Q8xelS8G-SY/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "ae9396f44ff41c22404322763f9e7989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.953202, 60.159222 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.941003, 60.15792 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "b049b24803f485d1902137d669f02856",
+      "properties": {
+        "description": "<a href=\"https://www.youtube.com/watch?v=v09usPDvj5Q\" target=\"_new\"><img src=\"http://img.youtube.com/vi/v09usPDvj5Q/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imke9ize6",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/v09usPDvj5Q\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Ukki kokkaa Ravintolapäivänä Eiran puiston  lippakioskilla</h3></p>",
+        "title": "Ukki kokkaa Ravintolapäivänä Eiran puiston  lippakioskilla"
+      }
+    },
+    {
+      "properties": {
+        "title": "Let's take a walk! Punavuori, Eira, Ullanlinna, Kaivopuisto",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pWgoW546AOM\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Let's take a walk! Punavuori, Eira, Ullanlinna, Kaivopuisto</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx3eta66",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=pWgoW546AOM\" target=\"_new\"><img src=\"http://img.youtube.com/vi/pWgoW546AOM/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "b44a57ceb47cd7433d2f85109487a4b2",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.945487, 60.154449 ],
+        "type": "Point"
+      }
+    },
+    {
+      "id": "b5eca21508eb288fd839e16a317c10de",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/dqwHapyW5B8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>MoonTV Kaivopuiston kesäkonsertti 2002</h3></p>",
+        "title": "MoonTV Kaivopuiston kesäkonsertti 2002",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=dqwHapyW5B8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/dqwHapyW5B8/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkdzkhe5"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.957911, 60.156243 ]
+      }
+    },
+    {
+      "id": "b71c84cd8c77e1d752cfb4f584e4ea73",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxbhls7k",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=vbke6rQq6cg\" target=\"_new\"><img src=\"http://img.youtube.com/vi/vbke6rQq6cg/mqdefault.jpg\" ></a>\n",
+        "title": "SLAVA! Kunnia. flashmob",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/vbke6rQq6cg\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>SLAVA! Kunnia. flashmob</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 24.941679, 60.171387 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.931261, 60.174146 ],
+        "type": "Point"
+      },
+      "id": "b92e172121dea36601316c50f412650d",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=GhHEaskgKaE\" target=\"_new\"><img src=\"http://img.youtube.com/vi/GhHEaskgKaE/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwf4c283",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/GhHEaskgKaE\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Art goes Kapakka - Tuomo Bottalla</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Art goes Kapakka - Tuomo Bottalla"
+      }
+    },
+    {
+      "id": "ba95f766a7e6c8ea8ee187a8ee136156",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=5Jg_lmwEOj4\" target=\"_new\"><img src=\"http://img.youtube.com/vi/5Jg_lmwEOj4/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx4nfo0j",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/5Jg_lmwEOj4\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Hotel Katajanokka</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Hotel Katajanokka"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.969477, 60.166696 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=r0ZXxuOW-uI\" target=\"_new\"><img src=\"http://img.youtube.com/vi/r0ZXxuOW-uI/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwhbs8c5",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/r0ZXxuOW-uI\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta - PItkäsilta</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Helsinki ilmasta - PItkäsilta"
+      },
+      "id": "bad3f5990ad3f89d86d768407de92e87",
+      "geometry": {
+        "coordinates": [ 24.950122, 60.176333 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "bb3345015784855ba9cae52e6a4f8038",
+      "properties": {
+        "id": "marker-ilxdiur1b",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=IUfQ4EwMPAw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/IUfQ4EwMPAw/mqdefault.jpg\" ></a>\n",
+        "title": "Helsingin makasiinit lyhytelokuva",
+        "video": "<iframe src=\"https://www.youtube.com/embed/IUfQ4EwMPAw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsingin makasiinit lyhytelokuva</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.936282, 60.173436 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 25.045309, 60.249566 ],
+        "type": "Point"
+      },
+      "id": "bce01c688e7e02d7d8605780c355681e",
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/VWA0pBp_d14\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Suomi hymyilee, Malmin lentokenttä</h3></p>",
+        "title": "Suomi hymyilee, Malmin lentokenttä",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=VWA0pBp_d14\" target=\"_new\"><img src=\"http://img.youtube.com/vi/VWA0pBp_d14/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx4vb18l"
+      }
+    },
+    {
+      "id": "bd1ce721e9734b22b0e6896f9f9777b0",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/mArNrvTUjMw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Pohjoissatama</h3></p>",
+        "title": "Pohjoissatama",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=mArNrvTUjMw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/mArNrvTUjMw/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxbw8t70"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.960776, 60.171552 ],
+        "type": "Point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.944651, 60.188326 ]
+      },
+      "type": "Feature",
+      "id": "be93eff6978f1d1444fd0d304021ee3e",
+      "properties": {
+        "title": "Kulttuuritalo - Hanoi Rocks 1985",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "video": "<iframe src=\"https://www.youtube.com/embed/766UgrF6nIM\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kulttuuritalo - Hanoi Rocks 1985</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwdzjtv2",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=766UgrF6nIM\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/766UgrF6nIM/mqdefault.jpg\" ></a>\n"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.958019, 60.153638 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/D_Iu4Zmt-kQ\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Näin pääset Harakan saarelle</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Näin pääset Harakan saarelle",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=D_Iu4Zmt-kQ\" target=\"_new\"><img src=\"http://img.youtube.com/vi/D_Iu4Zmt-kQ/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilx3aw9v5",
+        "marker-color": "#c5e96f"
+      },
+      "id": "c35852f5c187d3e019e96ca29349ea2f"
+    },
+    {
+      "id": "c54ba2c24e232406eab1c80b02062b55",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/mCUIjr7QPEA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Jormas - Rööperiin</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Jormas - Rööperiin",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=mCUIjr7QPEA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/mCUIjr7QPEA/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwe7v4n4",
+        "marker-color": "#c5e96f"
+      },
+      "geometry": {
+        "coordinates": [ 24.93654, 60.16108 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "title": "",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/fPTiI4dIrO0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki Central Railway Station - Eliel Saarinen 1919</h3></p>",
+        "marker-color": "#1087bf",
+        "id": "marker-imkf48c9a",
+        "description": "Helsinki Central Railway Station - Eliel Saarinen 1919\n<a href=\"https://www.youtube.com/watch?v=fPTiI4dIrO0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/fPTiI4dIrO0/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "c5c28e7b8019d7fb8e775b61999c3681",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.941475, 60.170873 ]
+      },
+      "type": "Feature"
+    },
+     {
+      "id": "c8241b0c33e151f816195f4d49b40c90",
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pbaAznR0oao\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Suomenlinnan kesäteatteri - Robin Hood</h3></p>",
+        "title": "Suomenlinnan kesäteatteri - Robin Hood",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=pbaAznR0oao\" target=\"_new\"><img src=\"http://img.youtube.com/vi/pbaAznR0oao/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx9wyu53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.987437, 60.142877 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "description": "<a href=\"https://www.youtube.com/watch?v=nvZ_pXQWUck\" target=\"_new\"><img src=\"http://img.youtube.com/vi/nvZ_pXQWUck/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkegmbv7",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/nvZ_pXQWUck\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Ukki tekee ruokaa : We got Beef</h3></p>",
+        "title": "Ukki tekee ruokaa : We got Beef"
+      },
+      "id": "c91b131fa4a03b1eb7887bf64c2f6ac2",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.940413, 60.162965 ]
+      }
+    },
+    {
+      "id": "c9b6edf38955c029b05654f03326700d",
+      "properties": {
+        "title": "Siivouspäivä Fredan torilla",
+        "video": "<iframe src=\"https://www.youtube.com/embed/wbiVC22IYDk\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Siivouspäivä Fredan torilla</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilxaheh0d",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=wbiVC22IYDk\" target=\"_new\"><img src=\"http://img.youtube.com/vi/wbiVC22IYDk/mqdefault.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.94022, 60.161683 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/MRjHQPbJ6m8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Olympic Games Helsinki 1952, avajaiset</h3></p>",
+        "title": "Olympic Games Helsinki 1952, avajaiset",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=MRjHQPbJ6m8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/MRjHQPbJ6m8/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxa1tt07"
+      },
+      "id": "cb046cdb39d7cfb6864631f431e6fde7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.926165, 60.186342 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=K8V2-LBDAaA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/K8V2-LBDAaA/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkf1z199",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/K8V2-LBDAaA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Iceskating in Helsinki</h3></p>",
+        "title": "Iceskating in Helsinki"
+      },
+      "id": "cbe1d255d14caa17e3b1cdb3a1833830",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.944071, 60.171061 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "id": "ce0e226d13da983da4cf3d3540fa3c05",
+      "properties": {
+        "id": "marker-ilxcs83k3",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=JtkuRufF0iI\" target=\"_new\"><img src=\"http://img.youtube.com/vi/JtkuRufF0iI/mqdefault.jpg\" ></a>\n",
+        "title": "Helsinki Poetry Connection goes Puisto @Käpylä lippakioski",
+        "video": "<iframe src=\"https://www.youtube.com/embed/JtkuRufF0iI\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki Poetry Connection goes Puisto @Käpylä lippakioski</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "coordinates": [ 24.954993, 60.217127 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.960551, 60.17398 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Liisanpuisto - Toinen Helsinki",
+        "video": "<iframe src=\"https://www.youtube.com/embed/_juybilNq4M\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Liisanpuisto - Toinen Helsinki</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "id": "marker-ilxcl17l1",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=_juybilNq4M\" target=\"_new\"><img src=\"http://img.youtube.com/vi/_juybilNq4M/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "d0f5f000aca8573f8ce4946557f0744f"
+    },
+    {
+      "properties": {
+        "id": "marker-ilwc05qg4",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=ZZiRtPwCGdk\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/ZZiRtPwCGdk/mqdefault.jpg\" ></a>\n",
+        "title": "Kalasatama Helsinki December 2015",
+        "video": "<iframe src=\"https://www.youtube.com/embed/ZZiRtPwCGdk\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kalasatama Helsinki December 2015</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "id": "d1434b140d8b7d30c5df7fca7750485f",
+      "geometry": {
+        "coordinates": [ 24.977878, 60.184806 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.929673, 60.163098 ]
+      },
+      "id": "d1c8a716ada887693818f441ae0a4509",
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/xffRw4ZfQ5U\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Street Food at the Hietalahti market hall</h3></p>",
+        "title": "Street Food at the Hietalahti market hall",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=xffRw4ZfQ5U\" target=\"_new\"><img src=\"http://img.youtube.com/vi/xffRw4ZfQ5U/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxb1a9uh"
+      }
+    },
+    {
+      "id": "d24a0e800e8d396a86f1558120c3ac2a",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=Lu_8Oh-l0nU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/Lu_8Oh-l0nU/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxazzktg",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/Lu_8Oh-l0nU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Bassline festivaali 2012</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Bassline festivaali 2012"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.933257, 60.162126 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Pepe Willberg - Tällä kadulla",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/BDq0saOznEU\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Pepe Willberg - Tällä kadulla</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxdv065d",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=BDq0saOznEU\" target=\"_new\"><img src=\"http://img.youtube.com/vi/BDq0saOznEU/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "d2ddaa74e90bdede27a073a5381103bc",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.957579, 60.184619 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx4gh18h",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=kMWBPzuHGbw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/kMWBPzuHGbw/mqdefault.jpg\" ></a>\n",
+        "title": "Katajanokka",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/kMWBPzuHGbw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Katajanokka</h3></p>"
+      },
+      "id": "d6f90c7252d4c8b1654a54972243a0c1",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.960765, 60.168969 ],
+        "type": "Point"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 25.08316, 60.212575 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "d7453cf2e64143e8132aa320747cffe4",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=BrcIDdpz74o\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/BrcIDdpz74o/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwdavty7",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/BrcIDdpz74o\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Notke Rotta - Paluu betoniin</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "title": "Notke Rotta - Paluu betoniin"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.884033, 60.183099 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "d74b1a063f8ed1334af364c7ff2831d0",
+      "properties": {
+        "id": "marker-ilwh27902",
+        "marker-color": "#c5e96f",
+        "description": "Seurasaari\n<a href=\"https://www.youtube.com/watch?v=B7v53hLVDyc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/B7v53hLVDyc/mqdefault.jpg\" ></a>\n",
+        "title": "Seurasaari",
+        "video": "<iframe src=\"https://www.youtube.com/embed/B7v53hLVDyc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Seurasaari</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema"
+      }
+    },
+    {
+      "id": "d7db7012ceb33a7dd1229739fc0d89ea",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx4r5wlk",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=InjccLOdS0s\" target=\"_new\"><img src=\"http://img.youtube.com/vi/InjccLOdS0s/mqdefault.jpg\" ></a>\n",
+        "title": "Jäänmurtaja Urho",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/InjccLOdS0s\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Jäänmurtaja Urho</h3></p>"
+      },
+      "geometry": {
+        "coordinates": [ 24.973597, 60.169482 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.98557, 60.186321 ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Helsinki ilmasta : Kulosaaren silta",
+        "video": "<iframe src=\"https://www.youtube.com/embed/JSl3N_sekdk\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Helsinki ilmasta : Kulosaaren silta</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilx40v40c",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=JSl3N_sekdk\" target=\"_new\"><img src=\"http://img.youtube.com/vi/JSl3N_sekdk/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "db4b832149105fc45c8e6ce4473f3afd"
+    },
+    {
+      "id": "dc0a7713d9ded307159ccbc3467a3a7a",
+      "properties": {
+        "title": "Koffin Vauhtikisat 2015",
+        "video": "<iframe src=\"https://www.youtube.com/embed/RkzYHrfg2kY\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Koffin Vauhtikisat 2015</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "id": "marker-ilxaywk7f",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=RkzYHrfg2kY\" target=\"_new\"><img src=\"http://img.youtube.com/vi/RkzYHrfg2kY/mqdefault.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.933772, 60.161619 ]
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [ 24.948245, 60.18667 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "df5502662d4c284aa7bee1c766d3ad3b",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=sP5QtwoX8c0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/sP5QtwoX8c0/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx9vlf82",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/sP5QtwoX8c0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Valenäyttelijä paljastui Ryhmäteatterissa</h3></p>",
+        "title": "Valenäyttelijä paljastui Ryhmäteatterissa"
+      }
+    },
+    {
+      "id": "e22c5f638ee7c6cc71e47310df3041a1",
+      "properties": {
+        "title": "Mantan Lakitus 2015",
+        "video": "<iframe src=\"https://www.youtube.com/embed/TX88tDIfUV0\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Mantan Lakitus 2015</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilxa4b3r9",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=TX88tDIfUV0\" target=\"_new\"><img src=\"http://img.youtube.com/vi/TX88tDIfUV0/mqdefault.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.951367, 60.167672 ]
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.962997, 60.179215 ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title": "Merihaka 2001",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/3-esLgzgCIw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Merihaka 2001</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilxd8cta8",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=3-esLgzgCIw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/3-esLgzgCIw/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "e60ec33ba600d74cf83f1e4e6d46769d"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 25.048656, 60.196315 ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Roihuvuori Hanami",
+        "video": "<iframe src=\"https://www.youtube.com/embed/2_KrakJ2ZUk\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Roihuvuori Hanami</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "id": "marker-ilwdf91i9",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=2_KrakJ2ZUk\" target=\"_blank\"><img src=\"http://img.youtube.com/vi/2_KrakJ2ZUk/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "e80732df35aa5e3138453265f45ac54d"
+    },
+    {
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Silmät tummat kuin yö @Kämp</h3></p>",
+        "title": "Silmät tummat kuin yö @Kämp",
+        "description": "\nPalmu ja kumppanit pitkällä lounaalla Kämpin kabinetissa.\n<a href=\"https://www.youtube.com/watch?v=5KHZcCik9JY\" target=\"_new\"><img src=\"http://img.youtube.com/vi/5KHZcCik9JY/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx6r6535"
+      },
+      "id": "e85a4132dd1a72000e3f546b11276615",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.94714, 60.168211 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "title": "Q-teatteri Täydellinen päivä",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pnpSmtKWJc4\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Q-teatteri Täydellinen päivä</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "id": "marker-ilwz7m0l0",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=pnpSmtKWJc4\" target=\"_new\"><img src=\"http://img.youtube.com/vi/pnpSmtKWJc4/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "e91483e81bc985dec85f40b1a355fe57",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.923601, 60.174098 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/BzdLLAhVjZM\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>A-studio: Köyhät piiloon? Leipäjono Helsinginkadulla.</h3></p>",
+        "title": "A-studio: Köyhät piiloon? Leipäjono Helsinginkadulla.",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=BzdLLAhVjZM\" target=\"_new\"><img src=\"http://img.youtube.com/vi/BzdLLAhVjZM/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwzqnu57"
+      },
+      "id": "e9cf36b55e583d0433d9788acc68d807",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.953738, 60.187243 ],
+        "type": "Point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.987888, 60.147828 ]
+      },
+      "type": "Feature",
+      "id": "ecce06bf630199b3fca17c4f4aafa80f",
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/ikHC4STCs4E\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Suomenlinna ilmasta</h3></p>",
+        "title": "Suomenlinna ilmasta",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=ikHC4STCs4E\" target=\"_new\"><img src=\"http://img.youtube.com/vi/ikHC4STCs4E/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwgrnimg"
+      }
+    },
+    {
+      "id": "ed19d14b7392a2ff39a5e32db13f4ba5",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=h8OLsf_Z3rI\" target=\"_new\"><img src=\"http://img.youtube.com/vi/h8OLsf_Z3rI/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilxcq6l32",
+        "marker-color": "#c5e96f",
+        "video": "<iframe src=\"https://www.youtube.com/embed/h8OLsf_Z3rI\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Naiseni kanssa Eduskuntatalon puistossa</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Naiseni kanssa Eduskuntatalon puistossa"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.933171, 60.173649 ]
+      }
+    },
+    {
+      "id": "f0d1dd78e9c7561910167567a2d08198",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/QCd9CYpppPQ\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Clifters Kaivopihalla</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Clifters Kaivopihalla",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=QCd9CYpppPQ\" target=\"_new\"><img src=\"http://img.youtube.com/vi/QCd9CYpppPQ/mqdefault.jpg\" ></a>\n",
+        "id": "marker-ilwfsw5s8",
+        "marker-color": "#c5e96f"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.940692, 60.169273 ]
+      }
+    },
+    {
+      "properties": {
+        "title": "Museokatu alusta loppuun",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "video": "<iframe src=\"https://www.youtube.com/embed/h6-YMKs_tVw\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Museokatu alusta loppuun</h3></p>",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilwf6vkr4",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=h6-YMKs_tVw\" target=\"_new\"><img src=\"http://img.youtube.com/vi/h6-YMKs_tVw/mqdefault.jpg\" ></a>\n"
+      },
+      "id": "f33b6ee2723632df103b57d9bee92cd3",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.929705, 60.174658 ],
+        "type": "Point"
+      }
+    },
+    {
+      "properties": {
+        "id": "marker-ilwzkjhd6",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=USp4bKhDlz8\" target=\"_new\"><img src=\"http://img.youtube.com/vi/USp4bKhDlz8/mqdefault.jpg\" ></a>\n",
+        "title": "Jari Sarasvuo saarnaa Kallion kirkossa",
+        "video": "<iframe src=\"https://www.youtube.com/embed/USp4bKhDlz8\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Jari Sarasvuo saarnaa Kallion kirkossa</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "id": "f499e0928c6a94f8c64d7c0b1c93ca26",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.949382, 60.184203 ]
+      }
+    },
+   
+    {
+      "properties": {
+        "id": "marker-ilxty15k4",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=pQPBT33kduA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/pQPBT33kduA/mqdefault.jpg\" ></a>\n",
+        "title": "Storyville - Marjo Leinonen",
+        "video": "<iframe src=\"https://www.youtube.com/embed/pQPBT33kduA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Storyville - Marjo Leinonen</h3></p>",
+        "marker-symbol": "music",
+        "marker-size": "medium"
+      },
+      "id": "f6378dd7deee99974fb24be814678c83",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.93213, 60.173842 ]
+      }
+    },
+    {
+      "id": "f8501cd25de4cc005c04d6d6ab2ce8ec",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/ZDP2jvmIQhA\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Joukkovoima Mielenosoitus 12/3/2016</h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Joukkovoima Mielenosoitus 12/3/2016",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=ZDP2jvmIQhA\" target=\"_new\"><img src=\"http://img.youtube.com/vi/ZDP2jvmIQhA/mqdefault.jpg\" ></a>\n",
+        "id": "marker-imkf9td5b",
+        "marker-color": "#1087bf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.952837, 60.169572 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.982309, 60.208962 ],
+        "type": "Point"
+      },
+      "properties": {
+        "id": "marker-ilx6mdgn3",
+        "marker-color": "#c5e96f",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=flo7QyeXvbc\" target=\"_new\"><img src=\"http://img.youtube.com/vi/flo7QyeXvbc/mqdefault.jpg\" ></a>\n",
+        "title": "Evening Flight over Arabianranta ",
+        "video": "<iframe src=\"https://www.youtube.com/embed/flo7QyeXvbc\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Evening Flight over Arabianranta </h3></p>",
+        "marker-size": "medium",
+        "marker-symbol": "cinema"
+      },
+      "id": "f8d5394877f6c83cca321733ff19b5c9"
+    },
+    {
+      "id": "fc0e136f8e737843279d8724ad2b8a1a",
+      "properties": {
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=FTt4nRWOv8M\" target=\"_new\"><img src=\"http://img.youtube.com/vi/FTt4nRWOv8M/mqdefault.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx4jmg1i",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "video": "<iframe src=\"https://www.youtube.com/embed/FTt4nRWOv8M\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Sörnäinen</h3></p>",
+        "title": "Sörnäinen"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.963834, 60.184144 ]
+      }
+    },
+    {
+      "id": "fc43e3b0e5a3a1f389833719f9346579",
+      "properties": {
+        "video": "<iframe src=\"https://www.youtube.com/embed/eGAiBGYzVEI\" width=\"380\" height=\"281\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><p><h3>Kesäilta Lauttasaaressa</h3></p>",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Kesäilta Lauttasaaressa",
+        "description": "\n<a href=\"https://www.youtube.com/watch?v=eGAiBGYzVEI\" target=\"_new\"><img src=\"http://img.youtube.com/vi/eGAiBGYzVEI/mqdefault.jpg\" ></a>\n",
+        "id": "marker-imkexdse8",
+        "marker-color": "#1087bf"
+      },
+      "geometry": {
+        "coordinates": [ 24.888067, 60.145179 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,730 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+        {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.933686, 60.163557 ],
+        "type": "Point"
+      },
+      "id": "0807c3a214a510220e7d47e332dac107",
+      "properties": {
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Melkein unplugged",
+        "description": "<br>\n<a href=\"http://areena.yle.fi/1-2567264\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2567264.jpg\" ></a><p><h3>Melkein unplugged</h3></p>\n",
+        "id": "marker-ilvz15425",
+        "marker-color": "#c5e96f"
+      }
+    },
+	    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.926669, 60.20072 ]
+      },
+      "properties": {
+        "title": "Pasila 2.5 - The Spin-Off",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilw83buc6",
+        "description": "\n<br>\n<a href=\"http://areena.yle.fi/1-2150712\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2150712.jpg\" ></a><p><h3>Pasila 2.5 - The Spin-Off</h3></p>\n"
+      },
+      "id": "0407c58b02728881d2a1eaf322da4a9b"
+    },
+	 {
+      "id": "1748bcb291d16d6a6d939b8abfcb4a9b",
+      "properties": {
+        "description": "<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2007/04/19/helsingin-esplanadi-keidas-keskella-kaupunkia\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id21612-previewImage-21611-1.jpg\" ></a><p><h3>Helsingin Esplanadi on keidas keskellä kaupunkia</h3></p>\n",
+        "id": "marker-imkd6myna",
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Helsingin Esplanadi on keidas keskellÃ¤ kaupunkia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.947687, 60.167587 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.946743, 60.155688 ]
+      },
+      "type": "Feature",
+      "id": "1e1cba72f65828d45404ab4e234489f8",
+      "properties": {
+        "marker-color": "#a3e46b",
+        "id": "marker-ilvzysik2",
+        "description": "\n<br>\n<a href=\"http://areena.yle.fi/1-631348\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-631348.jpg\" ></a><p><h3>Kaasua, komisario Palmu</h3></p>\n",
+        "title": "Kaasua, komisario Palmu",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      }
+    },
+	 {
+      "id": "25c1c5443a2a496a575cb3be3b3a292d",
+      "properties": {
+        "description": "<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2007/06/03/presidentin-paiva\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/img2747-previewImage.jpg\" ></a><p><h3>Presidentin päivä - UKK</h3></p>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imjxq2ov1",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Presidentin päivä - UKK"
+      },
+      "geometry": {
+        "coordinates": [ 24.882788, 60.190673 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.952086, 60.169973 ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Tie",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilw7pjsg0",
+        "marker-color": "#c5e96f",
+        "description": "Kaarina Kaikkosen tunteita herättänyt teos Tie oli esillä Helsingin tuomiokirkon rappusilla kesällä 2000. \n<br>\n<a href=\"http://areena.yle.fi/1-2159724\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2159724.jpg\" ></a>\n"
+      },
+      "id": "2767d8a7d4f0c46892d1ee5bdaaa0bc3"
+    },
+	    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.951303, 60.168916 ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Uusi kaupunki -kollektiivi järjesti osallistavaa suunnittelua käsittelevän studia generalia -tapahtuman Helsingissä Kiseleffin talossa 25.5. 2015.\n<br>\n<a href=\"http://areena.yle.fi/1-2840574\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2840574.jpg\" ></a>\n",
+        "id": "marker-ilw7xtru4",
+        "marker-color": "#c5e96f",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Kaupunki uusiksi. Parempi kaupunki syntyy osallistuvan suunnittelun kautta."
+      },
+      "id": "278a38754b66e603a8fea98f2649daba"
+    },
+	 {
+      "properties": {
+        "id": "marker-ilw05ugf3",
+        "marker-color": "#a3e46b",
+        "description": "Dok: Kauppiaan talosta presidentinlinnaksi\n<br>\n<a href=\"http://areena.yle.fi/1-2830410\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2830410.jpg\" ></a>\n",
+        "title": "Dok: Kauppiaan talosta presidentinlinnaksi",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "id": "2a6c8e343112c51ffc8b351905a13221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.95627, 60.168201 ]
+      },
+      "type": "Feature"
+    },
+     {
+      "geometry": {
+        "coordinates": [ 24.944897, 60.16883 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "bank",
+        "marker-size": "medium",
+        "title": "Mikrofoni Helsingin hulinassa 1938 - Yle radio",
+        "description": "Mikrofoni Helsingin hulinassa 1938 - Yle radio<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2006/10/10/mikrofoni-helsingin-hulinassa-1938\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id15217-previewImage-15216-50.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkd3tb27"
+      },
+      "id": "2eea7502eb309bdba4c236af8b056a02"
+    },
+	  {
+      "id": "33ea62ecf44b7e4d1a10183e144b4fde",
+      "properties": {
+        "id": "marker-ilw81hf75",
+        "marker-color": "#c5e96f",
+        "description": "Tume herkuttelee ihanan Anna Abreun kanssa Street food festival -tapahtumassa Helsingin Teurastamolla.\n<br>\n<a href=\"http://areena.yle.fi/1-2712742\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2712742.jpg\" ></a>\n",
+        "title": "Summeri Teurastamolla",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.970958, 60.190348 ]
+      },
+      "type": "Feature"
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.932489, 60.16518 ]
+      },
+      "properties": {
+        "title": "Jaakko Salo Mäyränkolossa",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "id": "marker-imkcxjze4",
+        "description": "Jaakko Salo Mäyränkolossa<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2008/03/11/jaakko-salo-jazzaa-mayrankololla\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/img28897-previewImage.jpg\" ></a>\n"
+      },
+      "id": "3663ce619ba296444fc87f954405956f"
+    },
+	  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.955229, 60.161934 ]
+      },
+      "properties": {
+        "description": "Tähdet kertovat, komisario Palmu\n<br>\n<a href=\"http://areena.yle.fi/1-640238\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-640238.jpg\" ></a>\n",
+        "id": "marker-ilvzs24q1",
+        "marker-color": "#a3e46b",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Tähdet kertovat, komisario Palmu"
+      },
+      "id": "429ef316c671db54d5193ab125f677ef"
+    },
+	  {
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Nuorisojoukko häädetty Eino Leinon patsaalta",
+        "description": "Nuorisojoukko häädetty Eino Leinon patsaalta<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2006/09/08/nuorisojoukko-haadetty-eino-leinon-patsaalta\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id10771-previewImage-10764-50.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkd9twhb"
+      },
+      "id": "4d41a14eb553866a9c313f39b79ef8d4",
+      "geometry": {
+        "coordinates": [ 24.944871, 60.167638 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.950283, 60.167726 ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "id": "marker-imkdaolwc",
+        "description": "Pekka Pohjola Group Espan lavalla<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2007/03/21/pekka-pohjola-group-espan-lavalla\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id20409-previewImage-20405-50.jpg\" ></a>\n",
+        "title": "Pekka Pohjola Group Espan lavalla",
+        "marker-symbol": "music",
+        "marker-size": "medium"
+      },
+      "id": "5015219f9820adea05306ad472f20ae5"
+    },
+	
+	  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.933385, 60.174434 ]
+      },
+      "id": "510249f20fef9b5606dd2467fe6d20eb",
+      "properties": {
+        "title": "Kuvitelkaa taatelipalmu Mannerheimintiellä",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilvxt0hz0",
+        "marker-color": "#c5e96f",
+        "description": "Kuvitelkaa taatelipalmu Mannerheimintiellä<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2016/03/04/kuvitelkaa-taatelipalmu-mannerheimintiella\" target=\"_new\"><img src=\"http://a1.images.cdn.yle.fi/image/upload/c_fill,h_164,w_291/17-4895256d9bb75592e5.jpg\" ></a>\n"
+      }
+    },
+	  {
+      "id": "531a1cf31cd60aa3d659426eb7fbbc6a",
+      "properties": {
+        "id": "marker-imkd5ob39",
+        "marker-color": "#1087bf",
+        "description": "Suomalaiset avustivat unkarilaisia 1956<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2006/09/08/suomalaiset-avustivat-unkarilaisia-1956\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id11849-previewImage-11848-50.jpg\" ></a>\n",
+        "title": "Suomalaiset avustivat unkarilaisia 1956",
+        "marker-size": "medium",
+        "marker-symbol": "cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.936218, 60.170554 ]
+      },
+      "type": "Feature"
+    },
+	  {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.937548, 60.169818 ]
+      },
+      "type": "Feature",
+      "id": "5707b3eb2c34a5a6ecc40fb34a994255",
+      "properties": {
+        "description": "Helsingin musta Teräsmies\n<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2013/08/01/helsingin-musta-terasmies\n\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2013/img97892-previewImage.jpg\" ></a>\n",
+        "id": "marker-ilvxzjhk1",
+        "marker-color": "#c5e96f",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Helsingin musta Teräsmies"
+      }
+    },
+	  {
+      "geometry": {
+        "coordinates": [ 24.954639, 60.187222 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "description": "Katu on hesarilaisten toinen olohuone<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2012/08/28/katu-hesarilaisten-toinen-olohuone\" target=\"_new\"><img src=\"http://a2.images.cdn.yle.fi/image/upload/c_fill,h_164,w_291/17-43109568a2283afccb.jpg\" ></a>\n",
+        "id": "marker-imkdc2fld",
+        "marker-color": "#1087bf",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Katu on hesarilaisten toinen olohuone"
+      },
+      "id": "62b1c4a2341dc56842e9592d3f62237e"
+    },
+	   {
+      "properties": {
+        "id": "marker-ilvyh8ne3",
+        "marker-color": "#c5e96f",
+        "description": "Helsingin kaupunginorkesterin konsertti - Joht. Andres Mustonen. Latvian valtion kuoro. \n<br>\n<a href=\"http://areena.yle.fi/1-3339346\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-3339346.jpg\" ></a>\n",
+        "title": "Helsingin kaupunginorkesterin konsertti ",
+        "marker-symbol": "music",
+        "marker-size": "medium"
+      },
+      "id": "6a8ea946c0c6a917686b19c414d25e48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.935113, 60.173687 ]
+      },
+      "type": "Feature"
+    },
+	 {
+      "properties": {
+        "marker-color": "#1087bf",
+        "id": "marker-imkdjzjs0",
+        "description": "Tyttöjen Talo<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2014/01/24/tyttojen-talo-tarjoaa-turvaa-ja-lasnaoloa\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2014/img101543-previewImage.jpg\" ></a>\n",
+        "title": "Tyttöjen Talo",
+        "marker-size": "medium",
+        "marker-symbol": "cinema"
+      },
+      "id": "6b57db6a6db0d82ac6f68272325f6b2b",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.950627, 60.180863 ],
+        "type": "Point"
+      }
+    },
+	 {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.910061, 60.185555 ]
+      },
+      "type": "Feature",
+      "id": "7a1c07164fe5372b03adb4fa65ebf6da",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Arvo Ylppö Lastenlinnan \"lättyjuhlissa\"",
+        "description": "Arvo Ylppö Lastenlinnan \"lättyjuhlissa\"<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2007/11/28/arvo-ylppo-lastenlinnan-lattyjuhlissa\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id26644-previewImage-26643-50.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkdlrkt1"
+      }
+    },
+	  {
+      "id": "7ad84adff55d1f1d80628da9376343f8",
+      "properties": {
+        "marker-color": "#1087bf",
+        "id": "marker-imkdg8l6g",
+        "description": "Elisa Korjus ja Liisa Akimof: Kevät<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2010/06/18/elisa-korjus-liisa-akimof-kevat\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id50653-previewImage-47779-1.jpg\" ></a>\n",
+        "title": "Elisa Korjus ja Liisa Akimof: Kevät",
+        "marker-size": "medium",
+        "marker-symbol": "music"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.954231, 60.178025 ],
+        "type": "Point"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.951657, 60.178665 ],
+        "type": "Point"
+      },
+      "id": "82ffe77561cde50be588c3dfbbfe08d7",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "bank",
+        "title": "Arska Stadista - Yle radio",
+        "description": "Arska Stadista - Yle radio<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2010/04/08/arska-stadista\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id46341-previewImage-46340-50.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkdh5eyh"
+      }
+    },
+	 {
+      "id": "89984e7d6236d233af952e06678ba552",
+      "properties": {
+        "title": "Yleisurheiluklassikot ",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "marker-color": "#a3e46b",
+        "id": "marker-ilvzecad0",
+        "description": "Yleisurheiluklassikot\n<br>\n<a href=\"http://areena.yle.fi/1-3012363\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-3012363.jpg\" ></a>\n"
+      },
+      "geometry": {
+        "coordinates": [ 24.927012, 60.186993 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+	   {
+      "id": "8dd6eda28bf2613f0819d4020bf8cba2",
+      "properties": {
+        "description": "Sisäministeri Heikki Ritavuori murhattiin kotitalonsa edessä 14.2.1922<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2012/05/09/rikostarinoita-historiasta-sisaministerin-murha\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2012/img79903-previewImage.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imjxiyrk0",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Sisäministeri Heikki Ritavuori murhattiin kotitalonsa edessä 14.2.1922"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.929083, 60.173559 ]
+      }
+    },
+	 {
+      "id": "928db1ecbd06016b8511138c93e43a53",
+      "properties": {
+        "description": "KantapÃ¶ytä - Kuplivaa keskustelua Musiikkitalon kahvilassa.\n<br>\n<a href=\"http://areena.yle.fi/1-2822146\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2822146-cover.jpg\"></a>\n",
+        "id": "marker-ilw7qxr81",
+        "marker-color": "#c5e96f",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "KantapÃ¶ytä"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.93566, 60.173495 ]
+      }
+    },
+	{
+      "properties": {
+        "title": "Albertinkatu 20, Mäyränkolo",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "id": "marker-imkcw0a62",
+        "description": "Albertinkatu 20, Mäyränkolo<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2015/05/20/1960-luvun-jazzpesa-mayrankolo-ikuistui-ylen-varhaiselle-filmille\" target=\"_new\"><img src=\"http://a2.images.cdn.yle.fi/image/upload/c_fill,h_164,w_291/17-26921555c96644ce16.jpg\" ></a>\n"
+      },
+      "id": "99cb70beb83e0543587ee32d9c113199",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.932489, 60.165062 ],
+        "type": "Point"
+      }
+    },
+	{
+      "id": "9f357def8da6cc82f388c82323824f2f",
+      "properties": {
+        "title": "Martti Ahtisaarelle Nobelin rauhanpalkinto",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-imkdnb832",
+        "marker-color": "#1087bf",
+        "description": "Martti Ahtisaarelle Nobelin rauhanpalkinto<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2008/10/10/martti-ahtisaarelle-nobelin-rauhanpalkinto\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id34258-previewImage-34252-50.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.927721, 60.177822 ],
+        "type": "Point"
+      }
+    },
+	 {
+      "geometry": {
+        "coordinates": [ 24.945273, 60.161892 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "a7d84efa6dd9d1404278d85b8b9ee882",
+      "properties": {
+        "title": "Kotikadun Tiernapojat",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "marker-color": "#1087bf",
+        "id": "marker-imkdpkyr4",
+        "description": "Kotikadun Tiernapojat<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2008/11/26/kotikadun-tiernapojat\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id35406-previewImage-35405-50.jpg\" ></a>\n"
+      }
+    },
+	 {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.932355, 60.165126 ]
+      },
+      "type": "Feature",
+      "id": "a9dda5d18ace9021db378b5858a180da",
+      "properties": {
+        "marker-color": "#1087bf",
+        "id": "marker-imkcwtwm3",
+        "description": "Laila Kinnunen Mäyränkolossa<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2007/03/20/laila-kinnunen-lailas-theme\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/img20125-previewImage.jpg\" ></a>\n",
+        "title": "Laila Kinnunen Mäyränkolossa",
+        "marker-symbol": "music",
+        "marker-size": "medium"
+      }
+    },
+	   {
+      "id": "ac02684015ed413f80ee9366c6e140f5",
+      "properties": {
+        "marker-color": "#1087bf",
+        "id": "marker-imkd295n5",
+        "description": "Piilokamera Aleksanterin kadulla<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2006/09/08/puhelin-kadulla\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id1507-previewImage-1503-50.jpg\" ></a>\n",
+        "title": "Piilokamera Aleksanterin kadulla",
+        "marker-size": "medium",
+        "marker-symbol": "cinema"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.943674, 60.168884 ],
+        "type": "Point"
+      }
+    },
+	{
+      "id": "b144e46585247721b58b6117d9ffa690",
+      "properties": {
+        "title": "Kohti Lepakon loppua ",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilx11c6be",
+        "description": "Kohti Lepakon loppua\n<a href=\"http://yle.fi/aihe/artikkeli/2014/12/18/kohti-lepakon-loppua\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2014/img107635-previewImage.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.913816, 60.165564 ],
+        "type": "Point"
+      }
+    },
+	  {
+      "properties": {
+        "description": "Haloo Helsinki! Mun sydän sanoo niin.\n<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2013/05/28/haloo-helsinki-mun-sydan-sanoo-niin\n\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2013/img96383-previewImage.jpg\" ></a>\n",
+        "id": "marker-ilvy58mr2",
+        "marker-color": "#c5e96f",
+        "marker-symbol": "music",
+        "marker-size": "medium",
+        "title": "Haloo Helsinki! Mun sydän sanoo niin."
+      },
+      "id": "bd74ec100af61272d666281c1f53ad56",
+      "geometry": {
+        "coordinates": [ 24.936282, 60.170191 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+	{
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.942065, 60.168777 ]
+      },
+      "type": "Feature",
+      "id": "c7877ad95b66eaf961a3c570e94e5f79",
+      "properties": {
+        "description": "Joulukadun avajaiset 1984<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2006/12/01/joulukadun-avajaiset-1984\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/img16662-previewImage.jpg\" ></a>\n",
+        "id": "marker-imkd2yro6",
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Joulukadun avajaiset 1984"
+      }
+    },
+	  {
+      "properties": {
+        "description": "Helene Schjerfbeckistä jäi lopulta jäljelle vain suu ja silmäkuopat.<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2012/06/04/helene-schjerfbeckista-jai-lopulta-jaljelle-vain-suu-ja-silmakuopat\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2012/img80497-previewImage.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkct4x40",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Helene Schjerfbeckistä jäi lopulta jäljelle vain suu ja silmäkuopat."
+      },
+      "id": "c839d38636b74a3f0ea838a7757c583e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.943556, 60.170213 ]
+      },
+      "type": "Feature"
+    },
+    {
+      "properties": {
+        "description": "<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2011/04/06/ars-95n-tehosekoittimet-kertovat-kolkosta-maailmasta\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id53273-previewImage-53261-50.jpg\" ></a><p><h3>ARS 95</h3></p>\n",
+        "id": "marker-imkcu7i31",
+        "marker-color": "#1087bf",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "ARS 95"
+      },
+      "id": "c904c4e85f40e3487502d68824bba708",
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.944318, 60.170111 ],
+        "type": "Point"
+      }
+    },
+	 {
+      "id": "cbd8d9fcf7f3ea9699b19e17a228f002",
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Pettäjän tien alkupää löytyi Hakaniemen sillan alta",
+        "description": "Pettäjän tien alkupää löytyi Hakaniemen sillan alta<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2013/02/12/pettajan-tien-alkupaa-loytyi-hakaniemen-sillan-alta\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2013/img93979-previewImage.jpg\" ></a>\n",
+        "marker-color": "#1087bf",
+        "id": "marker-imkdfm7pf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.957214, 60.177806 ]
+      },
+      "type": "Feature"
+    },
+	 {
+      "id": "d1d50d8664cca53e0a3af523aae4910b",
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilvyoxqm4",
+        "description": "Lucia 2015<br>\n<a href=\"http://areena.yle.fi/1-2406448\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2406448.jpg\" ></a>\n",
+        "title": "Lucia 2015",
+        "marker-size": "medium",
+        "marker-symbol": "cinema"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.952257, 60.170095 ]
+      }
+    },
+	{
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Ursula",
+        "description": "RUS - venäjästä rakkaudella. Sveta Kaivopuistossa.\n<br>\n<a href=\"http://areena.yle.fi/1-2408832\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2408832.jpg\" ></a>\n",
+        "marker-color": "#c5e96f",
+        "id": "marker-ilw7u4or2"
+      },
+      "id": "d2cb3c7f75c8363e1bd0c4d33c1c2646",
+      "geometry": {
+        "coordinates": [ 24.960454, 60.154962 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+	  {
+      "geometry": {
+        "coordinates": [ 24.912915, 60.165265 ],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "id": "e1fb17432dc741d6b8be4f4ab199ad6f",
+      "properties": {
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "title": "Terveisiä Lepakkoluolasta",
+        "description": "Terveisiä Lepakkoluolasta<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2006/09/08/terveisia-lepakkoluolasta\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id12243-previewImage-12235-50.jpg\" ></a>\n",
+        "id": "marker-ilx18gfag",
+        "marker-color": "#c5e96f"
+      }
+    },
+	 {
+      "properties": {
+        "title": "Lepakko Liekkihotellina",
+        "marker-symbol": "cinema",
+        "marker-size": "medium",
+        "id": "marker-ilx15megf",
+        "marker-color": "#c5e96f",
+        "description": "Lepakko Liekkihotellina<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2008/04/29/lepakko-liekkihotellina\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id5628-previewImage-5606-50.jpg\" ></a>\n"
+      },
+      "id": "e2f89958d9951a9d0aa5ef127ea6a8e4",
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.913097, 60.165569 ]
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 24.955841, 60.187307 ]
+      },
+      "id": "e32fd06f985f761da5b5ba29549c3146",
+      "properties": {
+        "id": "marker-imkdd99je",
+        "marker-color": "#1087bf",
+        "description": "Hesarilaiset avaavat ovet koteihinsa ja elämäntarinoihinsa<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2012/11/08/hesarilaiset-avaavat-ovet-koteihinsa-ja-elamantarinoihinsa\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2012/img91475-previewImage.jpg\" ></a>\n",
+        "title": "Hesarilaiset avaavat ovet koteihinsa ja elämäntarinoihinsa",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.903956, 60.161876 ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "Slush - Suomen suurin unelmahautomo<br>\n<a href=\"http://areena.yle.fi/1-3064189\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-3064189.jpg\" ></a>\n",
+        "id": "marker-ilvz6b2b6",
+        "marker-color": "#c5e96f",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "title": "Slush - Suomen suurin unelmahautomo"
+      },
+      "id": "f43d504f678768910043f8e599539bca"
+    },
+	 {
+      "properties": {
+        "marker-color": "#c5e96f",
+        "id": "marker-ilw84s957",
+        "description": "Pimeä historia - Suomalaiset terroristit<br>\n<a href=\"http://areena.yle.fi/1-2654514\" target=\"_new\">\n<img src=\"http://a3.images.cdn.yle.fi/image/upload/fl_lossy,q_80,f_auto,d_yle_areena.jpg/v4/13-1-2654514.jpg\" ></a>\n\n",
+        "title": "Pimeä historia - Suomalaiset terroristit",
+        "marker-symbol": "cinema",
+        "marker-size": "medium"
+      },
+      "id": "f6366c6df21c6dafc2f6b0e16f08ef48",
+      "geometry": {
+        "coordinates": [ 24.95245, 60.169567 ],
+        "type": "Point"
+      },
+      "type": "Feature"
+    },
+	  {
+      "id": "f94d862e3c56f6ab4117c153e6d9ed19",
+      "properties": {
+        "title": "Martti Ahtisaari: Rakastan elämää",
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "id": "marker-imkdondd3",
+        "marker-color": "#1087bf",
+        "description": "Martti Ahtisaari: Rakastan elämää<br>\n<a href=\"http://yle.fi/aihe/artikkeli/2008/10/10/martti-ahtisaari-rakastan-elamaa\" target=\"_new\"><img src=\"http://yle.fi/aihe/sites/aihe/files/migrated/elavaarkisto/kuvat/2011/id34250-previewImage-34248-50.jpg\" ></a>\n"
+      },
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [ 24.947333, 60.17867 ],
+        "type": "Point"
+      }
+    }
+	
+	
+	
+	
+			]
+    } 
